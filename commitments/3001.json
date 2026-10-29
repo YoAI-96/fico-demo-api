@@ -1,0 +1,40 @@
+{
+  "costCenterId": "3001",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 286060.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113386",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 49940.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500113426",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 75450.0,
+      "expectedDelivery": "2026-11-20"
+    },
+    {
+      "purchaseOrder": "4500113486",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 77300.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500113497",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 83370.0,
+      "expectedDelivery": "2026-12-10"
+    }
+  ]
+}

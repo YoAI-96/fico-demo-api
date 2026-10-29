@@ -1,0 +1,704 @@
+{
+  "costCenterId": "1038",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 3855150.0,
+  "byGlAccount": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 1620050.57
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 402610.45
+    },
+    {
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 179329.77
+    },
+    {
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 624342.04
+    },
+    {
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 429295.42
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 123551.46
+    },
+    {
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 122542.52
+    },
+    {
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 114485.57
+    },
+    {
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 118196.16
+    },
+    {
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 120746.04
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 348195.95
+    },
+    {
+      "period": "002",
+      "amount": 364631.8
+    },
+    {
+      "period": "003",
+      "amount": 366853.96
+    },
+    {
+      "period": "004",
+      "amount": 416005.66
+    },
+    {
+      "period": "005",
+      "amount": 352143.79
+    },
+    {
+      "period": "006",
+      "amount": 399758.01
+    },
+    {
+      "period": "007",
+      "amount": 376357.73
+    },
+    {
+      "period": "008",
+      "amount": 457393.15
+    },
+    {
+      "period": "009",
+      "amount": 384814.25
+    },
+    {
+      "period": "010",
+      "amount": 388995.7
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 146322.47
+    },
+    {
+      "period": "001",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 36363.65
+    },
+    {
+      "period": "001",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 16197.01
+    },
+    {
+      "period": "001",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 56390.38
+    },
+    {
+      "period": "001",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 38773.83
+    },
+    {
+      "period": "001",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 11159.13
+    },
+    {
+      "period": "001",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 11068.0
+    },
+    {
+      "period": "001",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 10340.3
+    },
+    {
+      "period": "001",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 10675.44
+    },
+    {
+      "period": "001",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 10905.74
+    },
+    {
+      "period": "002",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 153229.31
+    },
+    {
+      "period": "002",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 38080.12
+    },
+    {
+      "period": "002",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 16961.55
+    },
+    {
+      "period": "002",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 59052.17
+    },
+    {
+      "period": "002",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 40604.06
+    },
+    {
+      "period": "002",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 11685.87
+    },
+    {
+      "period": "002",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 11590.45
+    },
+    {
+      "period": "002",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 10828.39
+    },
+    {
+      "period": "002",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 11179.35
+    },
+    {
+      "period": "002",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 11420.53
+    },
+    {
+      "period": "003",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 154163.12
+    },
+    {
+      "period": "003",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 38312.19
+    },
+    {
+      "period": "003",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 17064.92
+    },
+    {
+      "period": "003",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 59412.05
+    },
+    {
+      "period": "003",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 40851.52
+    },
+    {
+      "period": "003",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 11757.09
+    },
+    {
+      "period": "003",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 11661.08
+    },
+    {
+      "period": "003",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 10894.38
+    },
+    {
+      "period": "003",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 11247.48
+    },
+    {
+      "period": "003",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 11490.13
+    },
+    {
+      "period": "004",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 174818.16
+    },
+    {
+      "period": "004",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 43445.32
+    },
+    {
+      "period": "004",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 19351.31
+    },
+    {
+      "period": "004",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 67372.17
+    },
+    {
+      "period": "004",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 46324.87
+    },
+    {
+      "period": "004",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 13332.32
+    },
+    {
+      "period": "004",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 13223.45
+    },
+    {
+      "period": "004",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 12354.03
+    },
+    {
+      "period": "004",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 12754.44
+    },
+    {
+      "period": "004",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 13029.59
+    },
+    {
+      "period": "005",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 147981.47
+    },
+    {
+      "period": "005",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 36775.94
+    },
+    {
+      "period": "005",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 16380.65
+    },
+    {
+      "period": "005",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 57029.73
+    },
+    {
+      "period": "005",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 39213.45
+    },
+    {
+      "period": "005",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 11285.65
+    },
+    {
+      "period": "005",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 11193.49
+    },
+    {
+      "period": "005",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 10457.54
+    },
+    {
+      "period": "005",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 10796.48
+    },
+    {
+      "period": "005",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 11029.39
+    },
+    {
+      "period": "006",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 167990.4
+    },
+    {
+      "period": "006",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 41748.51
+    },
+    {
+      "period": "006",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 18595.52
+    },
+    {
+      "period": "006",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 64740.86
+    },
+    {
+      "period": "006",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 44515.59
+    },
+    {
+      "period": "006",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 12811.61
+    },
+    {
+      "period": "006",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 12706.99
+    },
+    {
+      "period": "006",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 11871.53
+    },
+    {
+      "period": "006",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 12256.3
+    },
+    {
+      "period": "006",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 12520.7
+    },
+    {
+      "period": "007",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 158156.9
+    },
+    {
+      "period": "007",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 39304.71
+    },
+    {
+      "period": "007",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 17507.01
+    },
+    {
+      "period": "007",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 60951.18
+    },
+    {
+      "period": "007",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 41909.82
+    },
+    {
+      "period": "007",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 12061.67
+    },
+    {
+      "period": "007",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 11963.17
+    },
+    {
+      "period": "007",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 11176.62
+    },
+    {
+      "period": "007",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 11538.86
+    },
+    {
+      "period": "007",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 11787.79
+    },
+    {
+      "period": "008",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 192210.42
+    },
+    {
+      "period": "008",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 47767.6
+    },
+    {
+      "period": "008",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 21276.53
+    },
+    {
+      "period": "008",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 74074.88
+    },
+    {
+      "period": "008",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 50933.63
+    },
+    {
+      "period": "008",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 14658.73
+    },
+    {
+      "period": "008",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 14539.02
+    },
+    {
+      "period": "008",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 13583.11
+    },
+    {
+      "period": "008",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 14023.35
+    },
+    {
+      "period": "008",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 14325.88
+    },
+    {
+      "period": "009",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 161710.58
+    },
+    {
+      "period": "009",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 40187.86
+    },
+    {
+      "period": "009",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 17900.38
+    },
+    {
+      "period": "009",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 62320.72
+    },
+    {
+      "period": "009",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 42851.51
+    },
+    {
+      "period": "009",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 12332.69
+    },
+    {
+      "period": "009",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 12231.98
+    },
+    {
+      "period": "009",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 11427.75
+    },
+    {
+      "period": "009",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 11798.13
+    },
+    {
+      "period": "009",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 12052.65
+    },
+    {
+      "period": "010",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 163467.74
+    },
+    {
+      "period": "010",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 40624.55
+    },
+    {
+      "period": "010",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "amount": 18094.89
+    },
+    {
+      "period": "010",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 62997.9
+    },
+    {
+      "period": "010",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "amount": 43317.14
+    },
+    {
+      "period": "010",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 12466.7
+    },
+    {
+      "period": "010",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "amount": 12364.89
+    },
+    {
+      "period": "010",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "amount": 11551.92
+    },
+    {
+      "period": "010",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "amount": 11926.33
+    },
+    {
+      "period": "010",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "amount": 12183.64
+    }
+  ]
+}

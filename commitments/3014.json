@@ -1,0 +1,40 @@
+{
+  "costCenterId": "3014",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 142460.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115174",
+      "supplier": "Frigo Service NV",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 40760.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500115206",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 29210.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500115235",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 33780.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500115281",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 38710.0,
+      "expectedDelivery": "2026-11-27"
+    }
+  ]
+}

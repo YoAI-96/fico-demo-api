@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1506",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 63020.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120848",
+      "supplier": "RetailCloud AG",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "openAmount": 15030.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500120880",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "openAmount": 24040.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500120885",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 23950.0,
+      "expectedDelivery": "2026-12-06"
+    }
+  ]
+}

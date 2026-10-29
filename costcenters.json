@@ -1,0 +1,1545 @@
+{
+  "value": [
+    {
+      "id": "1001",
+      "name": "Store Düsseldorf",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Maria Lang",
+      "status": "Active"
+    },
+    {
+      "id": "1002",
+      "name": "Store Köln",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Kerstin Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1003",
+      "name": "Store Berlin Friedrichshain",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Maria Lang",
+      "status": "Active"
+    },
+    {
+      "id": "1004",
+      "name": "Store Berlin Spandau",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Sara Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1005",
+      "name": "Store Berlin Marzahn",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Julia Fischer",
+      "status": "Active"
+    },
+    {
+      "id": "1006",
+      "name": "Store Hamburg Altona",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Felix Vogel",
+      "status": "Active"
+    },
+    {
+      "id": "1007",
+      "name": "Store Hamburg Harburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Uwe Vogel",
+      "status": "Active"
+    },
+    {
+      "id": "1008",
+      "name": "Store München Ost",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Petra Brandt",
+      "status": "Active"
+    },
+    {
+      "id": "1009",
+      "name": "Store München Pasing",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Maria Brandt",
+      "status": "Active"
+    },
+    {
+      "id": "1010",
+      "name": "Store Frankfurt",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Ali Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "1011",
+      "name": "Store Stuttgart",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Anna Petersen",
+      "status": "Active"
+    },
+    {
+      "id": "1012",
+      "name": "Store Leipzig",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Sandra Hoffmann",
+      "status": "Locked"
+    },
+    {
+      "id": "1013",
+      "name": "Store Dresden",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Leon Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1014",
+      "name": "Store Hannover",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Leon Klein",
+      "status": "Active"
+    },
+    {
+      "id": "1015",
+      "name": "Store Nürnberg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Sara Hansen",
+      "status": "Active"
+    },
+    {
+      "id": "1016",
+      "name": "Store Bremen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Peter Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1017",
+      "name": "Store Essen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Nadine Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1018",
+      "name": "Store Dortmund",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Kai Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1019",
+      "name": "Store Duisburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Anna Peters",
+      "status": "Active"
+    },
+    {
+      "id": "1020",
+      "name": "Store Bochum",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Jens Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1021",
+      "name": "Store Wuppertal",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Petra Kraus",
+      "status": "Active"
+    },
+    {
+      "id": "1022",
+      "name": "Store Bielefeld",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Maria Seidel",
+      "status": "Active"
+    },
+    {
+      "id": "1023",
+      "name": "Store Bonn",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Jens Richter",
+      "status": "Active"
+    },
+    {
+      "id": "1024",
+      "name": "Store Münster",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Daniel Richter",
+      "status": "Active"
+    },
+    {
+      "id": "1025",
+      "name": "Store Mannheim",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Anna Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1026",
+      "name": "Store Karlsruhe",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Lena Lorenz",
+      "status": "Active"
+    },
+    {
+      "id": "1027",
+      "name": "Store Augsburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Felix Petersen",
+      "status": "Active"
+    },
+    {
+      "id": "1028",
+      "name": "Store Wiesbaden",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Maria Schmitt",
+      "status": "Active"
+    },
+    {
+      "id": "1029",
+      "name": "Store Mönchengladbach",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Martin Fischer",
+      "status": "Active"
+    },
+    {
+      "id": "1030",
+      "name": "Store Gelsenkirchen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Nadine Koch",
+      "status": "Active"
+    },
+    {
+      "id": "1031",
+      "name": "Store Aachen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Markus Neumann",
+      "status": "Active"
+    },
+    {
+      "id": "1032",
+      "name": "Store Braunschweig",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Sophie Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1033",
+      "name": "Store Kiel",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Clara Kaiser",
+      "status": "Active"
+    },
+    {
+      "id": "1034",
+      "name": "Store Chemnitz",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Jens Wolf",
+      "status": "Active"
+    },
+    {
+      "id": "1035",
+      "name": "Store Halle",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Hannah Brandt",
+      "status": "Active"
+    },
+    {
+      "id": "1036",
+      "name": "Store Magdeburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Julia Krüger",
+      "status": "Active"
+    },
+    {
+      "id": "1037",
+      "name": "Store Freiburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Laura Petersen",
+      "status": "Active"
+    },
+    {
+      "id": "1038",
+      "name": "Store Krefeld",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Clara Schmitt",
+      "status": "Active"
+    },
+    {
+      "id": "1039",
+      "name": "Store Mainz",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Laura Brandt",
+      "status": "Blocked for planning"
+    },
+    {
+      "id": "1040",
+      "name": "Store Lübeck",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Ali Huber",
+      "status": "Active"
+    },
+    {
+      "id": "1041",
+      "name": "Store Erfurt",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Mia Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1042",
+      "name": "Store Rostock",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Anna Petersen",
+      "status": "Active"
+    },
+    {
+      "id": "1043",
+      "name": "Store Kassel",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Mia Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1044",
+      "name": "Store Saarbrücken",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Kai Hansen",
+      "status": "Active"
+    },
+    {
+      "id": "1045",
+      "name": "Store Potsdam",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Laura Wolf",
+      "status": "Active"
+    },
+    {
+      "id": "1046",
+      "name": "Store Oldenburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Jonas Hoffmann",
+      "status": "Active"
+    },
+    {
+      "id": "1047",
+      "name": "Store Osnabrück",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Thomas Peters",
+      "status": "Active"
+    },
+    {
+      "id": "1048",
+      "name": "Store Heidelberg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Leon Huber",
+      "status": "Active"
+    },
+    {
+      "id": "1049",
+      "name": "Store Regensburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Peter Kaiser",
+      "status": "Active"
+    },
+    {
+      "id": "1050",
+      "name": "Store Ingolstadt",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Petra Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "1051",
+      "name": "Store Würzburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Lisa Maier",
+      "status": "Active"
+    },
+    {
+      "id": "1052",
+      "name": "Store Ulm",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Oliver Krüger",
+      "status": "Active"
+    },
+    {
+      "id": "1053",
+      "name": "Store Wolfsburg",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Lena Richter",
+      "status": "Active"
+    },
+    {
+      "id": "1054",
+      "name": "Store Göttingen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Sandra Brandt",
+      "status": "Active"
+    },
+    {
+      "id": "1055",
+      "name": "Store Koblenz",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Sandra Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1056",
+      "name": "Store Trier",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Tobias Klein",
+      "status": "Active"
+    },
+    {
+      "id": "1057",
+      "name": "Store Jena",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "North",
+      "responsiblePerson": "Thomas Neumann",
+      "status": "Active"
+    },
+    {
+      "id": "1058",
+      "name": "Store Siegen",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "East",
+      "responsiblePerson": "Jonas Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "1059",
+      "name": "Store Paderborn",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "South",
+      "responsiblePerson": "Kai Krüger",
+      "status": "Active"
+    },
+    {
+      "id": "1060",
+      "name": "Store Darmstadt",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Store",
+      "region": "West",
+      "responsiblePerson": "Sven Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1101",
+      "name": "Food Service Delivery West",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Delivery",
+      "region": "West",
+      "responsiblePerson": "Martin Weber",
+      "status": "Active"
+    },
+    {
+      "id": "1102",
+      "name": "Food Service Delivery North",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Delivery",
+      "region": "North",
+      "responsiblePerson": "Kai Zimmer",
+      "status": "Active"
+    },
+    {
+      "id": "1103",
+      "name": "Food Service Delivery East",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Delivery",
+      "region": "East",
+      "responsiblePerson": "Julia Brandt",
+      "status": "Active"
+    },
+    {
+      "id": "1104",
+      "name": "Food Service Delivery South",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Delivery",
+      "region": "South",
+      "responsiblePerson": "Jens Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "1150",
+      "name": "Delivery Fleet Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Delivery",
+      "region": "Germany",
+      "responsiblePerson": "Sandra Richter",
+      "status": "Active"
+    },
+    {
+      "id": "1201",
+      "name": "Central Warehouse Unna",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Logistics",
+      "region": "Germany",
+      "responsiblePerson": "Peter Huber",
+      "status": "Active"
+    },
+    {
+      "id": "1202",
+      "name": "Fresh Food Hub Kassel",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Logistics",
+      "region": "Germany",
+      "responsiblePerson": "Sven Neumann",
+      "status": "Active"
+    },
+    {
+      "id": "1203",
+      "name": "Non-Food Warehouse Marl",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Logistics",
+      "region": "Germany",
+      "responsiblePerson": "Uwe Hansen",
+      "status": "Active"
+    },
+    {
+      "id": "1301",
+      "name": "Finance and Accounting Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Germany",
+      "responsiblePerson": "Martin Zimmer",
+      "status": "Active"
+    },
+    {
+      "id": "1302",
+      "name": "Human Resources Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Germany",
+      "responsiblePerson": "Nadine Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "1303",
+      "name": "Store Operations Management Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Germany",
+      "responsiblePerson": "Thomas Peters",
+      "status": "Active"
+    },
+    {
+      "id": "1304",
+      "name": "Food Safety and Quality Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Germany",
+      "responsiblePerson": "Sara Yilmaz",
+      "status": "Active"
+    },
+    {
+      "id": "1305",
+      "name": "Sales and Customer Service Germany",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Germany",
+      "responsiblePerson": "Sophie Schulz",
+      "status": "Active"
+    },
+    {
+      "id": "2001",
+      "name": "Store Wien Nord",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Theresa Moser",
+      "status": "Active"
+    },
+    {
+      "id": "2002",
+      "name": "Store Wien Süd",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Florian Wimmer",
+      "status": "Active"
+    },
+    {
+      "id": "2003",
+      "name": "Store Wien West",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Stefan Pichler",
+      "status": "Active"
+    },
+    {
+      "id": "2004",
+      "name": "Store Graz",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Simon Huber",
+      "status": "Active"
+    },
+    {
+      "id": "2005",
+      "name": "Store Linz",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Simon Hofer",
+      "status": "Blocked for planning"
+    },
+    {
+      "id": "2006",
+      "name": "Store Salzburg",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Eva Eder",
+      "status": "Active"
+    },
+    {
+      "id": "2007",
+      "name": "Store Innsbruck",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Katharina Eder",
+      "status": "Active"
+    },
+    {
+      "id": "2008",
+      "name": "Store Klagenfurt",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Eva Pichler",
+      "status": "Active"
+    },
+    {
+      "id": "2009",
+      "name": "Store Villach",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Simon Hofer",
+      "status": "Active"
+    },
+    {
+      "id": "2010",
+      "name": "Store Wels",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Stefan Wimmer",
+      "status": "Active"
+    },
+    {
+      "id": "2011",
+      "name": "Store St. Pölten",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Katharina Gruber",
+      "status": "Active"
+    },
+    {
+      "id": "2012",
+      "name": "Store Dornbirn",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Store",
+      "region": "Austria",
+      "responsiblePerson": "Stefan Moser",
+      "status": "Active"
+    },
+    {
+      "id": "2101",
+      "name": "Food Service Delivery Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Delivery",
+      "region": "Austria",
+      "responsiblePerson": "Katharina Hofer",
+      "status": "Active"
+    },
+    {
+      "id": "2150",
+      "name": "Delivery Fleet Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Delivery",
+      "region": "Austria",
+      "responsiblePerson": "Theresa Eder",
+      "status": "Active"
+    },
+    {
+      "id": "2201",
+      "name": "Warehouse Wien",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Logistics",
+      "region": "Austria",
+      "responsiblePerson": "Florian Wimmer",
+      "status": "Active"
+    },
+    {
+      "id": "2301",
+      "name": "Finance and Accounting Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Administration",
+      "region": "Austria",
+      "responsiblePerson": "Simon Bauer",
+      "status": "Active"
+    },
+    {
+      "id": "2302",
+      "name": "Human Resources Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Administration",
+      "region": "Austria",
+      "responsiblePerson": "Moritz Wimmer",
+      "status": "Active"
+    },
+    {
+      "id": "2303",
+      "name": "Store Operations Management Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Administration",
+      "region": "Austria",
+      "responsiblePerson": "Eva Bauer",
+      "status": "Active"
+    },
+    {
+      "id": "2304",
+      "name": "Food Safety and Quality Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Administration",
+      "region": "Austria",
+      "responsiblePerson": "Katharina Huber",
+      "status": "Active"
+    },
+    {
+      "id": "2305",
+      "name": "Sales and Customer Service Austria",
+      "companyCode": "2000",
+      "country": "Austria",
+      "function": "Administration",
+      "region": "Austria",
+      "responsiblePerson": "Simon Leitner",
+      "status": "Active"
+    },
+    {
+      "id": "3001",
+      "name": "Store Amsterdam",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Eva Mulder",
+      "status": "Active"
+    },
+    {
+      "id": "3002",
+      "name": "Store Rotterdam",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Lotte de Jong",
+      "status": "Active"
+    },
+    {
+      "id": "3003",
+      "name": "Store Den Haag",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Fleur Smit",
+      "status": "Active"
+    },
+    {
+      "id": "3004",
+      "name": "Store Utrecht",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Sanne Jansen",
+      "status": "Active"
+    },
+    {
+      "id": "3005",
+      "name": "Store Eindhoven",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Anouk Mulder",
+      "status": "Active"
+    },
+    {
+      "id": "3006",
+      "name": "Store Groningen",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Joris Bakker",
+      "status": "Active"
+    },
+    {
+      "id": "3007",
+      "name": "Store Tilburg",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Bram Smit",
+      "status": "Active"
+    },
+    {
+      "id": "3008",
+      "name": "Store Almere",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Sanne Bakker",
+      "status": "Active"
+    },
+    {
+      "id": "3009",
+      "name": "Store Breda",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Bram de Boer",
+      "status": "Active"
+    },
+    {
+      "id": "3010",
+      "name": "Store Nijmegen",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Daan Visser",
+      "status": "Active"
+    },
+    {
+      "id": "3011",
+      "name": "Store Apeldoorn",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Daan Meijer",
+      "status": "Active"
+    },
+    {
+      "id": "3012",
+      "name": "Store Haarlem",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Eva Visser",
+      "status": "Active"
+    },
+    {
+      "id": "3013",
+      "name": "Store Arnhem",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Sanne de Vries",
+      "status": "Active"
+    },
+    {
+      "id": "3014",
+      "name": "Store Zaandam",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Fleur de Jong",
+      "status": "Active"
+    },
+    {
+      "id": "3015",
+      "name": "Store Amersfoort",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Eva de Vries",
+      "status": "Active"
+    },
+    {
+      "id": "3016",
+      "name": "Store Maastricht",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Bram Bakker",
+      "status": "Active"
+    },
+    {
+      "id": "3017",
+      "name": "Store Zwolle",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Store",
+      "region": "Netherlands",
+      "responsiblePerson": "Thijs Bakker",
+      "status": "Blocked for planning"
+    },
+    {
+      "id": "3101",
+      "name": "Food Service Delivery Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Delivery",
+      "region": "Netherlands",
+      "responsiblePerson": "Lotte Bakker",
+      "status": "Active"
+    },
+    {
+      "id": "3102",
+      "name": "Food Service Delivery Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Delivery",
+      "region": "Netherlands",
+      "responsiblePerson": "Daan van den Berg",
+      "status": "Locked"
+    },
+    {
+      "id": "3150",
+      "name": "Delivery Fleet Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Delivery",
+      "region": "Netherlands",
+      "responsiblePerson": "Daan Smit",
+      "status": "Active"
+    },
+    {
+      "id": "3201",
+      "name": "Warehouse Duiven",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Logistics",
+      "region": "Netherlands",
+      "responsiblePerson": "Sanne Meijer",
+      "status": "Active"
+    },
+    {
+      "id": "3301",
+      "name": "Finance and Accounting Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Administration",
+      "region": "Netherlands",
+      "responsiblePerson": "Bram van den Berg",
+      "status": "Active"
+    },
+    {
+      "id": "3302",
+      "name": "Human Resources Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Administration",
+      "region": "Netherlands",
+      "responsiblePerson": "Anouk van den Berg",
+      "status": "Active"
+    },
+    {
+      "id": "3303",
+      "name": "Store Operations Management Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Administration",
+      "region": "Netherlands",
+      "responsiblePerson": "Anouk Mulder",
+      "status": "Active"
+    },
+    {
+      "id": "3304",
+      "name": "Food Safety and Quality Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Administration",
+      "region": "Netherlands",
+      "responsiblePerson": "Daan de Vries",
+      "status": "Active"
+    },
+    {
+      "id": "3305",
+      "name": "Sales and Customer Service Netherlands",
+      "companyCode": "3000",
+      "country": "Netherlands",
+      "function": "Administration",
+      "region": "Netherlands",
+      "responsiblePerson": "Eva Meijer",
+      "status": "Active"
+    },
+    {
+      "id": "4001",
+      "name": "Store Brussel",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Camille Goossens",
+      "status": "Active"
+    },
+    {
+      "id": "4002",
+      "name": "Store Antwerpen",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Emma Maes",
+      "status": "Active"
+    },
+    {
+      "id": "4003",
+      "name": "Store Gent",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Marie Jacobs",
+      "status": "Active"
+    },
+    {
+      "id": "4004",
+      "name": "Store Charleroi",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Jules Claes",
+      "status": "Active"
+    },
+    {
+      "id": "4005",
+      "name": "Store Liège",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Julie Peeters",
+      "status": "Active"
+    },
+    {
+      "id": "4006",
+      "name": "Store Brugge",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Julie Maes",
+      "status": "Active"
+    },
+    {
+      "id": "4007",
+      "name": "Store Namur",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Marie Claes",
+      "status": "Active"
+    },
+    {
+      "id": "4008",
+      "name": "Store Leuven",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Lien Goossens",
+      "status": "Active"
+    },
+    {
+      "id": "4009",
+      "name": "Store Mons",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Arthur Wouters",
+      "status": "Active"
+    },
+    {
+      "id": "4010",
+      "name": "Store Aalst",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Louis Jacobs",
+      "status": "Active"
+    },
+    {
+      "id": "4011",
+      "name": "Store Mechelen",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Lien Goossens",
+      "status": "Active"
+    },
+    {
+      "id": "4012",
+      "name": "Store Kortrijk",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Store",
+      "region": "Belgium",
+      "responsiblePerson": "Noah Claes",
+      "status": "Active"
+    },
+    {
+      "id": "4101",
+      "name": "Food Service Delivery Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Delivery",
+      "region": "Belgium",
+      "responsiblePerson": "Camille Jacobs",
+      "status": "Locked"
+    },
+    {
+      "id": "4150",
+      "name": "Delivery Fleet Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Delivery",
+      "region": "Belgium",
+      "responsiblePerson": "Marie Mertens",
+      "status": "Active"
+    },
+    {
+      "id": "4201",
+      "name": "Warehouse Willebroek",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Logistics",
+      "region": "Belgium",
+      "responsiblePerson": "Camille Wouters",
+      "status": "Active"
+    },
+    {
+      "id": "4301",
+      "name": "Finance and Accounting Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Administration",
+      "region": "Belgium",
+      "responsiblePerson": "Arthur Mertens",
+      "status": "Active"
+    },
+    {
+      "id": "4302",
+      "name": "Human Resources Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Administration",
+      "region": "Belgium",
+      "responsiblePerson": "Emma Claes",
+      "status": "Active"
+    },
+    {
+      "id": "4303",
+      "name": "Store Operations Management Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Administration",
+      "region": "Belgium",
+      "responsiblePerson": "Lucas Willems",
+      "status": "Active"
+    },
+    {
+      "id": "4304",
+      "name": "Food Safety and Quality Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Administration",
+      "region": "Belgium",
+      "responsiblePerson": "Lucas Goossens",
+      "status": "Active"
+    },
+    {
+      "id": "4305",
+      "name": "Sales and Customer Service Belgium",
+      "companyCode": "4000",
+      "country": "Belgium",
+      "function": "Administration",
+      "region": "Belgium",
+      "responsiblePerson": "Louis Maes",
+      "status": "Active"
+    },
+    {
+      "id": "1501",
+      "name": "Category Management Food",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Purchasing",
+      "region": "Headquarters",
+      "responsiblePerson": "Sara Kraus",
+      "status": "Active"
+    },
+    {
+      "id": "1502",
+      "name": "Category Management Non-Food",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Purchasing",
+      "region": "Headquarters",
+      "responsiblePerson": "Martin Vogel",
+      "status": "Active"
+    },
+    {
+      "id": "1503",
+      "name": "Private Label Development",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Purchasing",
+      "region": "Headquarters",
+      "responsiblePerson": "Daniel Schmitt",
+      "status": "Active"
+    },
+    {
+      "id": "1504",
+      "name": "Supplier Quality",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Purchasing",
+      "region": "Headquarters",
+      "responsiblePerson": "Uwe Schmitt",
+      "status": "Active"
+    },
+    {
+      "id": "1505",
+      "name": "E-Commerce Marketplace",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Digital",
+      "region": "Headquarters",
+      "responsiblePerson": "Nadine Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1506",
+      "name": "Customer Loyalty Program",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Marketing",
+      "region": "Headquarters",
+      "responsiblePerson": "Petra Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1507",
+      "name": "Marketing and Flyers",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Marketing",
+      "region": "Headquarters",
+      "responsiblePerson": "Julia Kaiser",
+      "status": "Active"
+    },
+    {
+      "id": "1508",
+      "name": "IT POS and Store Systems",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "IT",
+      "region": "Headquarters",
+      "responsiblePerson": "Thomas Krüger",
+      "status": "Active"
+    },
+    {
+      "id": "1509",
+      "name": "IT ERP and Finance Systems",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "IT",
+      "region": "Headquarters",
+      "responsiblePerson": "Ali Becker",
+      "status": "Active"
+    },
+    {
+      "id": "1510",
+      "name": "IT Infrastructure",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "IT",
+      "region": "Headquarters",
+      "responsiblePerson": "Mia Hoffmann",
+      "status": "Active"
+    },
+    {
+      "id": "1511",
+      "name": "Group Controlling",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Headquarters",
+      "responsiblePerson": "Jens Hartmann",
+      "status": "Active"
+    },
+    {
+      "id": "1512",
+      "name": "Treasury",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Headquarters",
+      "responsiblePerson": "Mia Hoffmann",
+      "status": "Active"
+    },
+    {
+      "id": "1513",
+      "name": "Legal and Compliance",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Headquarters",
+      "responsiblePerson": "Felix Kraus",
+      "status": "Active"
+    },
+    {
+      "id": "1514",
+      "name": "Sustainability and Energy",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Headquarters",
+      "responsiblePerson": "Maria Braun",
+      "status": "Active"
+    },
+    {
+      "id": "1515",
+      "name": "Learning and Development",
+      "companyCode": "1000",
+      "country": "Germany",
+      "function": "Administration",
+      "region": "Headquarters",
+      "responsiblePerson": "Uwe Lang",
+      "status": "Active"
+    }
+  ],
+  "count": 154
+}

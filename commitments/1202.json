@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1202",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 110510.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109575",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 9370.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500109608",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 16320.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500109629",
+      "supplier": "Frigo Service NV",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 18620.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500109636",
+      "supplier": "TruckLease AG",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 17330.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500109668",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 15260.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500109716",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 12320.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500109724",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 21290.0,
+      "expectedDelivery": "2026-12-12"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1302",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 35250.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109989",
+      "supplier": "TruckLease AG",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 12690.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500110029",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 22560.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

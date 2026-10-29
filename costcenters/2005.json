@@ -1,0 +1,15 @@
+{
+  "id": "2005",
+  "name": "Store Linz",
+  "companyCode": "2000",
+  "companyName": "Demo Wholesale Austria GmbH",
+  "country": "Austria",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "Austria",
+  "profitCenter": "PC2STO",
+  "responsiblePerson": "Simon Hofer",
+  "currency": "EUR",
+  "status": "Blocked for planning",
+  "validFrom": "2018-01-01"
+}

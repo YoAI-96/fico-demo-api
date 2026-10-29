@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1101",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 109260.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500108686",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 24290.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500108713",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "openAmount": 15370.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500108746",
+      "supplier": "Frigo Service NV",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 22940.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500108793",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 15550.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500108852",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 16080.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500108902",
+      "supplier": "RetailCloud AG",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 15030.0,
+      "expectedDelivery": "2026-11-03"
+    }
+  ]
+}

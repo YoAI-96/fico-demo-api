@@ -1,0 +1,40 @@
+{
+  "costCenterId": "2008",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 349480.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500111305",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 78080.0,
+      "expectedDelivery": "2026-11-20"
+    },
+    {
+      "purchaseOrder": "4500111339",
+      "supplier": "RetailCloud AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 79100.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500111383",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 100870.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500111418",
+      "supplier": "TruckLease AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 91430.0,
+      "expectedDelivery": "2026-11-21"
+    }
+  ]
+}

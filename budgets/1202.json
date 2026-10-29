@@ -1,0 +1,34 @@
+{
+  "costCenterId": "1202",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 3000000,
+  "lines": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "plannedAmount": 643100.0
+    },
+    {
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "plannedAmount": 763570.0
+    },
+    {
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "plannedAmount": 523880.0
+    },
+    {
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "plannedAmount": 383310.0
+    },
+    {
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "plannedAmount": 686140.0
+    }
+  ]
+}

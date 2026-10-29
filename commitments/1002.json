@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1002",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 137860.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100170",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 31170.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500100215",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 23740.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500100263",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 32950.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500100308",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 28060.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500100335",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 21940.0,
+      "expectedDelivery": "2026-11-21"
+    }
+  ]
+}

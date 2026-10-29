@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1203",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 128030.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109735",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 34130.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500109783",
+      "supplier": "TruckLease AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 20770.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500109790",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 16410.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500109820",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 19930.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500109845",
+      "supplier": "Frigo Service NV",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 20800.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500109864",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 15990.0,
+      "expectedDelivery": "2026-11-26"
+    }
+  ]
+}

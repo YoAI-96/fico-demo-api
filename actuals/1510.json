@@ -1,0 +1,249 @@
+{
+  "costCenterId": "1510",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 269470.0,
+  "byGlAccount": [
+    {
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 119140.17
+    },
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 56890.52
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 93439.31
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 29432.11
+    },
+    {
+      "period": "002",
+      "amount": 25404.26
+    },
+    {
+      "period": "003",
+      "amount": 29148.59
+    },
+    {
+      "period": "004",
+      "amount": 23542.54
+    },
+    {
+      "period": "005",
+      "amount": 25929.32
+    },
+    {
+      "period": "006",
+      "amount": 28015.28
+    },
+    {
+      "period": "007",
+      "amount": 29549.2
+    },
+    {
+      "period": "008",
+      "amount": 26424.8
+    },
+    {
+      "period": "009",
+      "amount": 26464.72
+    },
+    {
+      "period": "010",
+      "amount": 25559.18
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 13012.75
+    },
+    {
+      "period": "001",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 6213.71
+    },
+    {
+      "period": "001",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 10205.65
+    },
+    {
+      "period": "002",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 11231.93
+    },
+    {
+      "period": "002",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5363.35
+    },
+    {
+      "period": "002",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 8808.98
+    },
+    {
+      "period": "003",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 12887.4
+    },
+    {
+      "period": "003",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 6153.85
+    },
+    {
+      "period": "003",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 10107.34
+    },
+    {
+      "period": "004",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 10408.81
+    },
+    {
+      "period": "004",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 4970.3
+    },
+    {
+      "period": "004",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 8163.43
+    },
+    {
+      "period": "005",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 11464.07
+    },
+    {
+      "period": "005",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5474.2
+    },
+    {
+      "period": "005",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 8991.05
+    },
+    {
+      "period": "006",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 12386.33
+    },
+    {
+      "period": "006",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5914.59
+    },
+    {
+      "period": "006",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 9714.36
+    },
+    {
+      "period": "007",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 13064.52
+    },
+    {
+      "period": "007",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 6238.43
+    },
+    {
+      "period": "007",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 10246.25
+    },
+    {
+      "period": "008",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 11683.14
+    },
+    {
+      "period": "008",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5578.8
+    },
+    {
+      "period": "008",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 9162.86
+    },
+    {
+      "period": "009",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 11700.79
+    },
+    {
+      "period": "009",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5587.23
+    },
+    {
+      "period": "009",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 9176.7
+    },
+    {
+      "period": "010",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 11300.43
+    },
+    {
+      "period": "010",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 5396.06
+    },
+    {
+      "period": "010",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 8862.69
+    }
+  ]
+}

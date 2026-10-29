@@ -1,0 +1,56 @@
+{
+  "costCenterId": "4302",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 50080.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119354",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 7740.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500119400",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 6320.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500119440",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 9010.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500119495",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 10260.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500119504",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 8190.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500119546",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 8560.0,
+      "expectedDelivery": "2026-11-21"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1045",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 201330.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106627",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 42620.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500106635",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 38400.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500106681",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 33800.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500106738",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 46540.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500106752",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 39970.0,
+      "expectedDelivery": "2026-11-24"
+    }
+  ]
+}

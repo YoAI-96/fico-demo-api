@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1057",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 193230.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500108130",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 49190.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500108144",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 49360.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500108157",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 34190.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500108196",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 60490.0,
+      "expectedDelivery": "2026-12-03"
+    }
+  ]
+}

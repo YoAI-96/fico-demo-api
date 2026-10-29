@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1506",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 500000,
+  "lines": [
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "plannedAmount": 194400.0
+    },
+    {
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "plannedAmount": 198620.0
+    },
+    {
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "plannedAmount": 106980.0
+    }
+  ]
+}

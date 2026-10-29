@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1033",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 122970.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104977",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 26060.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500105009",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 21280.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500105065",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 21320.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500105125",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 16260.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500105146",
+      "supplier": "Frigo Service NV",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 21000.0,
+      "expectedDelivery": "2026-12-10"
+    },
+    {
+      "purchaseOrder": "4500105193",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 17050.0,
+      "expectedDelivery": "2026-12-26"
+    }
+  ]
+}

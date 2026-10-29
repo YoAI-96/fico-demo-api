@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1017",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 253140.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500102274",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 56690.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500102286",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 77450.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500102311",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 77230.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500102369",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 41770.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

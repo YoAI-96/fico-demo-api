@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1059",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 343180.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500108485",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 220680.0,
+      "expectedDelivery": "2026-11-20"
+    },
+    {
+      "purchaseOrder": "4500108529",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 122500.0,
+      "expectedDelivery": "2026-11-11"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "costCenterId": "4003",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 136350.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117247",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 47170.0,
+      "expectedDelivery": "2026-12-16"
+    },
+    {
+      "purchaseOrder": "4500117257",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 45690.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500117295",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 43490.0,
+      "expectedDelivery": "2026-12-27"
+    }
+  ]
+}

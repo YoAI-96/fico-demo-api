@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1032",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 92920.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104782",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 18220.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500104837",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 10560.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500104852",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 13910.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500104901",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 15320.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500104915",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 15960.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500104972",
+      "supplier": "TruckLease AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 18950.0,
+      "expectedDelivery": "2026-12-27"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1026",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 181290.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500103735",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 67700.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500103758",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 42400.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500103811",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 71190.0,
+      "expectedDelivery": "2026-12-21"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "costCenterId": "2150",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 1100000,
+  "lines": [
+    {
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "plannedAmount": 489650.0
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "plannedAmount": 231450.0
+    },
+    {
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "plannedAmount": 378900.0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1515",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 79000.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500122392",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "openAmount": 15720.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500122442",
+      "supplier": "Frigo Service NV",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 12850.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500122460",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "openAmount": 13320.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500122508",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 18690.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500122530",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 8940.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500122577",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "openAmount": 9480.0,
+      "expectedDelivery": "2026-11-28"
+    }
+  ]
+}

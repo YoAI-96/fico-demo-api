@@ -1,0 +1,59 @@
+{
+  "costCenterId": "2012",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 2600000,
+  "lines": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "plannedAmount": 177310.0
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "plannedAmount": 148130.0
+    },
+    {
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "plannedAmount": 321620.0
+    },
+    {
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "plannedAmount": 318540.0
+    },
+    {
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "plannedAmount": 245360.0
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "plannedAmount": 168910.0
+    },
+    {
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "plannedAmount": 310460.0
+    },
+    {
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "plannedAmount": 335320.0
+    },
+    {
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "plannedAmount": 310520.0
+    },
+    {
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "plannedAmount": 263830.0
+    }
+  ]
+}

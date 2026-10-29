@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1509",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 39930.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500121390",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 5810.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500121448",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "openAmount": 5180.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500121485",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 6340.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500121498",
+      "supplier": "RetailCloud AG",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 5210.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500121513",
+      "supplier": "RetailCloud AG",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "openAmount": 6190.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500121553",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 5800.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500121612",
+      "supplier": "RetailCloud AG",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 5400.0,
+      "expectedDelivery": "2026-12-17"
+    }
+  ]
+}

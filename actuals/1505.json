@@ -1,0 +1,314 @@
+{
+  "costCenterId": "1505",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 436980.0,
+  "byGlAccount": [
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 120145.55
+    },
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 66590.87
+    },
+    {
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 131333.47
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 118910.11
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 44342.8
+    },
+    {
+      "period": "002",
+      "amount": 46656.24
+    },
+    {
+      "period": "003",
+      "amount": 47880.27
+    },
+    {
+      "period": "004",
+      "amount": 39940.07
+    },
+    {
+      "period": "005",
+      "amount": 39308.73
+    },
+    {
+      "period": "006",
+      "amount": 46876.26
+    },
+    {
+      "period": "007",
+      "amount": 40891.34
+    },
+    {
+      "period": "008",
+      "amount": 46764.84
+    },
+    {
+      "period": "009",
+      "amount": 42581.01
+    },
+    {
+      "period": "010",
+      "amount": 41738.44
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 12191.84
+    },
+    {
+      "period": "001",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 6757.35
+    },
+    {
+      "period": "001",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 13327.14
+    },
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 12066.47
+    },
+    {
+      "period": "002",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 12827.91
+    },
+    {
+      "period": "002",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 7109.89
+    },
+    {
+      "period": "002",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 14022.44
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 12696.0
+    },
+    {
+      "period": "003",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 13164.45
+    },
+    {
+      "period": "003",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 7296.42
+    },
+    {
+      "period": "003",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 14390.32
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 13029.08
+    },
+    {
+      "period": "004",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 10981.33
+    },
+    {
+      "period": "004",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 6086.42
+    },
+    {
+      "period": "004",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 12003.91
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 10868.41
+    },
+    {
+      "period": "005",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 10807.75
+    },
+    {
+      "period": "005",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 5990.21
+    },
+    {
+      "period": "005",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 11814.16
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 10696.61
+    },
+    {
+      "period": "006",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 12888.4
+    },
+    {
+      "period": "006",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 7143.42
+    },
+    {
+      "period": "006",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 14088.57
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 12755.87
+    },
+    {
+      "period": "007",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 11242.88
+    },
+    {
+      "period": "007",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 6231.38
+    },
+    {
+      "period": "007",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 12289.81
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 11127.27
+    },
+    {
+      "period": "008",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 12857.77
+    },
+    {
+      "period": "008",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 7126.44
+    },
+    {
+      "period": "008",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 14055.08
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 12725.55
+    },
+    {
+      "period": "009",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 11707.44
+    },
+    {
+      "period": "009",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 6488.87
+    },
+    {
+      "period": "009",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 12797.64
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 11587.06
+    },
+    {
+      "period": "010",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 11475.78
+    },
+    {
+      "period": "010",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 6360.47
+    },
+    {
+      "period": "010",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 12544.4
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 11357.79
+    }
+  ]
+}

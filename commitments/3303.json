@@ -1,0 +1,64 @@
+{
+  "costCenterId": "3303",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 26870.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116583",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2900.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500116607",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 5120.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500116639",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 3020.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500116671",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 4120.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500116676",
+      "supplier": "Frigo Service NV",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 2550.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500116731",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 4510.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500116778",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 4650.0,
+      "expectedDelivery": "2026-11-05"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1304",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 20890.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110164",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 4660.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500110210",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "openAmount": 6170.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500110251",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 3750.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500110306",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 6310.0,
+      "expectedDelivery": "2026-11-12"
+    }
+  ]
+}

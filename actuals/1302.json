@@ -1,0 +1,379 @@
+{
+  "costCenterId": "1302",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 451550.0,
+  "byGlAccount": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 73762.75
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 101935.94
+    },
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 98522.71
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 81571.73
+    },
+    {
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 95756.87
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 42699.08
+    },
+    {
+      "period": "002",
+      "amount": 44004.57
+    },
+    {
+      "period": "003",
+      "amount": 43906.47
+    },
+    {
+      "period": "004",
+      "amount": 41351.29
+    },
+    {
+      "period": "005",
+      "amount": 49036.5
+    },
+    {
+      "period": "006",
+      "amount": 48134.72
+    },
+    {
+      "period": "007",
+      "amount": 50814.48
+    },
+    {
+      "period": "008",
+      "amount": 44847.52
+    },
+    {
+      "period": "009",
+      "amount": 44867.5
+    },
+    {
+      "period": "010",
+      "amount": 41887.87
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 6975.09
+    },
+    {
+      "period": "001",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 9639.18
+    },
+    {
+      "period": "001",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9316.42
+    },
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 7713.51
+    },
+    {
+      "period": "001",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 9054.88
+    },
+    {
+      "period": "002",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 7188.35
+    },
+    {
+      "period": "002",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 9933.89
+    },
+    {
+      "period": "002",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9601.26
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 7949.35
+    },
+    {
+      "period": "002",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 9331.72
+    },
+    {
+      "period": "003",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 7172.32
+    },
+    {
+      "period": "003",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 9911.74
+    },
+    {
+      "period": "003",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9579.86
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 7931.63
+    },
+    {
+      "period": "003",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 9310.92
+    },
+    {
+      "period": "004",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 6754.92
+    },
+    {
+      "period": "004",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 9334.92
+    },
+    {
+      "period": "004",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9022.35
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 7470.04
+    },
+    {
+      "period": "004",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 8769.06
+    },
+    {
+      "period": "005",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 8010.33
+    },
+    {
+      "period": "005",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 11069.83
+    },
+    {
+      "period": "005",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 10699.17
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 8858.36
+    },
+    {
+      "period": "005",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 10398.81
+    },
+    {
+      "period": "006",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 7863.03
+    },
+    {
+      "period": "006",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 10866.26
+    },
+    {
+      "period": "006",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 10502.41
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 8695.45
+    },
+    {
+      "period": "006",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 10207.57
+    },
+    {
+      "period": "007",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 8300.78
+    },
+    {
+      "period": "007",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 11471.2
+    },
+    {
+      "period": "007",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 11087.1
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 9179.55
+    },
+    {
+      "period": "007",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 10775.85
+    },
+    {
+      "period": "008",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 7326.05
+    },
+    {
+      "period": "008",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 10124.18
+    },
+    {
+      "period": "008",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9785.18
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 8101.63
+    },
+    {
+      "period": "008",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 9510.48
+    },
+    {
+      "period": "009",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 7329.31
+    },
+    {
+      "period": "009",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 10128.69
+    },
+    {
+      "period": "009",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9789.54
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 8105.24
+    },
+    {
+      "period": "009",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 9514.72
+    },
+    {
+      "period": "010",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 6842.57
+    },
+    {
+      "period": "010",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 9456.05
+    },
+    {
+      "period": "010",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 9139.42
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 7566.97
+    },
+    {
+      "period": "010",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "amount": 8882.86
+    }
+  ]
+}

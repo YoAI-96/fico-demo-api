@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3016",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 266920.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115561",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 119180.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500115586",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 147740.0,
+      "expectedDelivery": "2026-11-03"
+    }
+  ]
+}

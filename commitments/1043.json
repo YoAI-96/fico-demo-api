@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1043",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 283330.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106458",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 110000.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500106482",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 173330.0,
+      "expectedDelivery": "2026-12-19"
+    }
+  ]
+}

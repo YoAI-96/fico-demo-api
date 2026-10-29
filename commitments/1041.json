@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1041",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 245170.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106080",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 74510.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500106135",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 85350.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500106179",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 85310.0,
+      "expectedDelivery": "2026-11-20"
+    }
+  ]
+}

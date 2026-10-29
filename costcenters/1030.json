@@ -1,0 +1,15 @@
+{
+  "id": "1030",
+  "name": "Store Gelsenkirchen",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "East",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Nadine Koch",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

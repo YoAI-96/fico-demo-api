@@ -1,0 +1,64 @@
+{
+  "costCenterId": "3002",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 165740.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113545",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 29320.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500113555",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 29490.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500113578",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 23420.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500113591",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 26840.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500113614",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 18790.0,
+      "expectedDelivery": "2026-12-06"
+    },
+    {
+      "purchaseOrder": "4500113672",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 17150.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500113699",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 20730.0,
+      "expectedDelivery": "2026-12-28"
+    }
+  ]
+}

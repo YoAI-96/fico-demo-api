@@ -1,0 +1,15 @@
+{
+  "id": "1301",
+  "name": "Finance and Accounting Germany",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Germany",
+  "profitCenter": "PC1ADM",
+  "responsiblePerson": "Martin Zimmer",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

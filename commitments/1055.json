@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1055",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 133360.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107754",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 20730.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500107769",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 21100.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500107790",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 19280.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500107795",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 20130.0,
+      "expectedDelivery": "2026-11-27"
+    },
+    {
+      "purchaseOrder": "4500107855",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 18510.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500107873",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 18670.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500107886",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 14940.0,
+      "expectedDelivery": "2026-12-28"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1502",
+  "name": "Category Management Non-Food",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Purchasing",
+  "region": "Headquarters",
+  "profitCenter": "PC1PUR",
+  "responsiblePerson": "Martin Vogel",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1011",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 188540.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101419",
+      "supplier": "TruckLease AG",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 30360.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500101458",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 31690.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500101474",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 22360.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500101521",
+      "supplier": "TruckLease AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 25510.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500101530",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 22510.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500101561",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 23850.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500101584",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 32260.0,
+      "expectedDelivery": "2026-11-15"
+    }
+  ]
+}

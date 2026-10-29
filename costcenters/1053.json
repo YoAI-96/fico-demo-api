@@ -1,0 +1,15 @@
+{
+  "id": "1053",
+  "name": "Store Wolfsburg",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "North",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Lena Richter",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

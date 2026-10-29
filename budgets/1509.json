@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1509",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 1500000,
+  "lines": [
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "plannedAmount": 415990.0
+    },
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "plannedAmount": 569650.0
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "plannedAmount": 514360.0
+    }
+  ]
+}

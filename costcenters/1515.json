@@ -1,0 +1,15 @@
+{
+  "id": "1515",
+  "name": "Learning and Development",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Headquarters",
+  "profitCenter": "PC1ADM",
+  "responsiblePerson": "Uwe Lang",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

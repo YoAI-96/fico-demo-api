@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3150",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 52640.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116153",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 25960.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500116194",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 26680.0,
+      "expectedDelivery": "2026-12-15"
+    }
+  ]
+}

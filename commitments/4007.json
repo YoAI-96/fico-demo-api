@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4007",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 324140.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117794",
+      "supplier": "Frigo Service NV",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 51790.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500117809",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 61730.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500117865",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 83750.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500117915",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 55740.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500117952",
+      "supplier": "TruckLease AG",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 71130.0,
+      "expectedDelivery": "2026-12-15"
+    }
+  ]
+}

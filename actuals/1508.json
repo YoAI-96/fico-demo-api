@@ -1,0 +1,379 @@
+{
+  "costCenterId": "1508",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 1780140.0,
+  "byGlAccount": [
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 484931.32
+    },
+    {
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 360684.22
+    },
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 463319.15
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 246295.04
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 224910.27
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 197192.92
+    },
+    {
+      "period": "002",
+      "amount": 190030.75
+    },
+    {
+      "period": "003",
+      "amount": 191742.4
+    },
+    {
+      "period": "004",
+      "amount": 160962.68
+    },
+    {
+      "period": "005",
+      "amount": 170926.94
+    },
+    {
+      "period": "006",
+      "amount": 191351.34
+    },
+    {
+      "period": "007",
+      "amount": 177673.04
+    },
+    {
+      "period": "008",
+      "amount": 173162.67
+    },
+    {
+      "period": "009",
+      "amount": 180330.37
+    },
+    {
+      "period": "010",
+      "amount": 146766.89
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 53717.7
+    },
+    {
+      "period": "001",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 39954.37
+    },
+    {
+      "period": "001",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 51323.64
+    },
+    {
+      "period": "001",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 27283.04
+    },
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 24914.17
+    },
+    {
+      "period": "002",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 51766.64
+    },
+    {
+      "period": "002",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 38503.2
+    },
+    {
+      "period": "002",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 49459.53
+    },
+    {
+      "period": "002",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 26292.11
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 24009.27
+    },
+    {
+      "period": "003",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 52232.91
+    },
+    {
+      "period": "003",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 38850.01
+    },
+    {
+      "period": "003",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 49905.02
+    },
+    {
+      "period": "003",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 26528.93
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 24225.53
+    },
+    {
+      "period": "004",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 43848.15
+    },
+    {
+      "period": "004",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 32613.56
+    },
+    {
+      "period": "004",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 41893.95
+    },
+    {
+      "period": "004",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 22270.33
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20336.69
+    },
+    {
+      "period": "005",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 46562.53
+    },
+    {
+      "period": "005",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 34632.47
+    },
+    {
+      "period": "005",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 44487.36
+    },
+    {
+      "period": "005",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 23648.96
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21595.62
+    },
+    {
+      "period": "006",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 52126.38
+    },
+    {
+      "period": "006",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 38770.78
+    },
+    {
+      "period": "006",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 49803.24
+    },
+    {
+      "period": "006",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 26474.82
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 24176.12
+    },
+    {
+      "period": "007",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 48400.25
+    },
+    {
+      "period": "007",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 35999.34
+    },
+    {
+      "period": "007",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 46243.17
+    },
+    {
+      "period": "007",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 24582.33
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22447.95
+    },
+    {
+      "period": "008",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 47171.57
+    },
+    {
+      "period": "008",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 35085.47
+    },
+    {
+      "period": "008",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 45069.25
+    },
+    {
+      "period": "008",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 23958.29
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21878.09
+    },
+    {
+      "period": "009",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 49124.14
+    },
+    {
+      "period": "009",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 36537.75
+    },
+    {
+      "period": "009",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 46934.8
+    },
+    {
+      "period": "009",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 24949.99
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22783.69
+    },
+    {
+      "period": "010",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 39981.05
+    },
+    {
+      "period": "010",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "amount": 29737.27
+    },
+    {
+      "period": "010",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "amount": 38199.19
+    },
+    {
+      "period": "010",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 20306.24
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18543.14
+    }
+  ]
+}

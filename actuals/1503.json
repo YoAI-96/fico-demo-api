@@ -1,0 +1,249 @@
+{
+  "costCenterId": "1503",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 473340.0,
+  "byGlAccount": [
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 202889.02
+    },
+    {
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 115427.89
+    },
+    {
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 155023.09
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 46415.44
+    },
+    {
+      "period": "002",
+      "amount": 43402.61
+    },
+    {
+      "period": "003",
+      "amount": 48062.54
+    },
+    {
+      "period": "004",
+      "amount": 50521.79
+    },
+    {
+      "period": "005",
+      "amount": 49032.04
+    },
+    {
+      "period": "006",
+      "amount": 46987.66
+    },
+    {
+      "period": "007",
+      "amount": 51473.2
+    },
+    {
+      "period": "008",
+      "amount": 43034.18
+    },
+    {
+      "period": "009",
+      "amount": 52955.38
+    },
+    {
+      "period": "010",
+      "amount": 41455.16
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 19895.18
+    },
+    {
+      "period": "001",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 11318.79
+    },
+    {
+      "period": "001",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15201.47
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18603.78
+    },
+    {
+      "period": "002",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 10584.09
+    },
+    {
+      "period": "002",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 14214.74
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20601.18
+    },
+    {
+      "period": "003",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 11720.45
+    },
+    {
+      "period": "003",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15740.91
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21655.29
+    },
+    {
+      "period": "004",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 12320.16
+    },
+    {
+      "period": "004",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 16546.34
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21016.74
+    },
+    {
+      "period": "005",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 11956.87
+    },
+    {
+      "period": "005",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 16058.43
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20140.45
+    },
+    {
+      "period": "006",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 11458.33
+    },
+    {
+      "period": "006",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15388.88
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22063.1
+    },
+    {
+      "period": "007",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 12552.17
+    },
+    {
+      "period": "007",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 16857.93
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18445.86
+    },
+    {
+      "period": "008",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 10494.24
+    },
+    {
+      "period": "008",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 14094.08
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22698.41
+    },
+    {
+      "period": "009",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 12913.61
+    },
+    {
+      "period": "009",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 17343.36
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 17769.03
+    },
+    {
+      "period": "010",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 10109.18
+    },
+    {
+      "period": "010",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 13576.95
+    }
+  ]
+}

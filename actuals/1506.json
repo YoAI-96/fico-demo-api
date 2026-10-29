@@ -1,0 +1,95 @@
+{
+  "costCenterId": "1506",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 189080.0,
+  "byGlAccount": [
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 57933.54
+    },
+    {
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 55978.93
+    },
+    {
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 75167.53
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "008",
+      "amount": 64533.93
+    },
+    {
+      "period": "009",
+      "amount": 64314.02
+    },
+    {
+      "period": "010",
+      "amount": 60232.05
+    }
+  ],
+  "lines": [
+    {
+      "period": "008",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 19773.0
+    },
+    {
+      "period": "008",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 19105.88
+    },
+    {
+      "period": "008",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 25655.05
+    },
+    {
+      "period": "009",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 19705.62
+    },
+    {
+      "period": "009",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 19040.78
+    },
+    {
+      "period": "009",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 25567.62
+    },
+    {
+      "period": "010",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "amount": 18454.92
+    },
+    {
+      "period": "010",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 17832.27
+    },
+    {
+      "period": "010",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 23944.86
+    }
+  ]
+}

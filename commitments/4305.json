@@ -1,0 +1,56 @@
+{
+  "costCenterId": "4305",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 16860.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119942",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 2560.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500119973",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 3180.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500120006",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 2880.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500120028",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 2280.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500120081",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2760.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500120112",
+      "supplier": "TruckLease AG",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 3200.0,
+      "expectedDelivery": "2026-12-14"
+    }
+  ]
+}

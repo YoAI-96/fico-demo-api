@@ -1,0 +1,48 @@
+{
+  "costCenterId": "2301",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 15300.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500112738",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 3760.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500112774",
+      "supplier": "RetailCloud AG",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 1880.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500112827",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 3380.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500112853",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 3590.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500112898",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2690.0,
+      "expectedDelivery": "2026-12-26"
+    }
+  ]
+}

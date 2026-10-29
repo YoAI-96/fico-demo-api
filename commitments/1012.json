@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1012",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 225210.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101641",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 60200.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500101673",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 68420.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500101718",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 96590.0,
+      "expectedDelivery": "2026-12-24"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "costCenterId": "3304",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 717690.0,
+  "byGlAccount": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 214746.95
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 206019.64
+    },
+    {
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 146161.36
+    },
+    {
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 150762.05
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 67115.97
+    },
+    {
+      "period": "002",
+      "amount": 66061.21
+    },
+    {
+      "period": "003",
+      "amount": 70429.56
+    },
+    {
+      "period": "004",
+      "amount": 73784.43
+    },
+    {
+      "period": "005",
+      "amount": 80106.43
+    },
+    {
+      "period": "006",
+      "amount": 78394.44
+    },
+    {
+      "period": "007",
+      "amount": 70738.22
+    },
+    {
+      "period": "008",
+      "amount": 75699.08
+    },
+    {
+      "period": "009",
+      "amount": 65179.05
+    },
+    {
+      "period": "010",
+      "amount": 70181.61
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 20082.42
+    },
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 19266.27
+    },
+    {
+      "period": "001",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 13668.52
+    },
+    {
+      "period": "001",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 14098.76
+    },
+    {
+      "period": "002",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 19766.81
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18963.49
+    },
+    {
+      "period": "002",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 13453.72
+    },
+    {
+      "period": "002",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 13877.19
+    },
+    {
+      "period": "003",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 21073.91
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20217.47
+    },
+    {
+      "period": "003",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 14343.35
+    },
+    {
+      "period": "003",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 14794.83
+    },
+    {
+      "period": "004",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 22077.75
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21180.51
+    },
+    {
+      "period": "004",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15026.59
+    },
+    {
+      "period": "004",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 15499.58
+    },
+    {
+      "period": "005",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 23969.42
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22995.3
+    },
+    {
+      "period": "005",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 16314.1
+    },
+    {
+      "period": "005",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 16827.61
+    },
+    {
+      "period": "006",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 23457.16
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22503.86
+    },
+    {
+      "period": "006",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15965.44
+    },
+    {
+      "period": "006",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 16467.98
+    },
+    {
+      "period": "007",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 21166.27
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20306.07
+    },
+    {
+      "period": "007",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 14406.21
+    },
+    {
+      "period": "007",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 14859.67
+    },
+    {
+      "period": "008",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 22650.65
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 21730.13
+    },
+    {
+      "period": "008",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 15416.52
+    },
+    {
+      "period": "008",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 15901.78
+    },
+    {
+      "period": "009",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 19502.85
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18710.26
+    },
+    {
+      "period": "009",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 13274.06
+    },
+    {
+      "period": "009",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 13691.88
+    },
+    {
+      "period": "010",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 20999.71
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 20146.28
+    },
+    {
+      "period": "010",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "amount": 14292.85
+    },
+    {
+      "period": "010",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "amount": 14742.77
+    }
+  ]
+}

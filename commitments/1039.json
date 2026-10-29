@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1039",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 178920.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105866",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 69870.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500105873",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 65660.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500105922",
+      "supplier": "Frigo Service NV",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 43390.0,
+      "expectedDelivery": "2026-12-12"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1028",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 149310.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104094",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 25100.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500104152",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 24200.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500104194",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 24500.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500104249",
+      "supplier": "TruckLease AG",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 26660.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500104294",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 14140.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500104335",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 16300.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500104346",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 18410.0,
+      "expectedDelivery": "2026-12-10"
+    }
+  ]
+}

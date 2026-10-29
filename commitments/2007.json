@@ -1,0 +1,24 @@
+{
+  "costCenterId": "2007",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 272050.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500111215",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 113180.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500111248",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 158870.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

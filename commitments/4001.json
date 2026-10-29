@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4001",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 98870.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117012",
+      "supplier": "Frigo Service NV",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 25710.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500117038",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 18250.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500117071",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 20030.0,
+      "expectedDelivery": "2026-12-16"
+    },
+    {
+      "purchaseOrder": "4500117100",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 20640.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500117131",
+      "supplier": "Frigo Service NV",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 14240.0,
+      "expectedDelivery": "2026-12-16"
+    }
+  ]
+}

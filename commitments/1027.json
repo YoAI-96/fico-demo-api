@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1027",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 209440.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500103871",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 38480.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500103876",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 37510.0,
+      "expectedDelivery": "2026-12-12"
+    },
+    {
+      "purchaseOrder": "4500103920",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 38060.0,
+      "expectedDelivery": "2026-11-27"
+    },
+    {
+      "purchaseOrder": "4500103961",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 35500.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500104013",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 32190.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500104035",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 27700.0,
+      "expectedDelivery": "2026-11-10"
+    }
+  ]
+}

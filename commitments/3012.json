@@ -1,0 +1,48 @@
+{
+  "costCenterId": "3012",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 254400.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114845",
+      "supplier": "Frigo Service NV",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 51420.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500114899",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 45380.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500114904",
+      "supplier": "RetailCloud AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 53060.0,
+      "expectedDelivery": "2026-12-06"
+    },
+    {
+      "purchaseOrder": "4500114953",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 48850.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500114988",
+      "supplier": "RetailCloud AG",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 55690.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

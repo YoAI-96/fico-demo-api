@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1060",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 165200.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500108547",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 29800.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500108588",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 22900.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500108597",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 37530.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500108606",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 44440.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500108649",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 30530.0,
+      "expectedDelivery": "2026-12-20"
+    }
+  ]
+}

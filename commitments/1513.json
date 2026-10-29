@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1513",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 59500.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500122168",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 18210.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500122185",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 12100.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500122194",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 14480.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500122222",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 14710.0,
+      "expectedDelivery": "2026-11-21"
+    }
+  ]
+}

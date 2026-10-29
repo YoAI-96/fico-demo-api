@@ -1,0 +1,34 @@
+{
+  "costCenterId": "4305",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 600000,
+  "lines": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "plannedAmount": 110090.0
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "plannedAmount": 111720.0
+    },
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "plannedAmount": 103930.0
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "plannedAmount": 138380.0
+    },
+    {
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "plannedAmount": 135880.0
+    }
+  ]
+}

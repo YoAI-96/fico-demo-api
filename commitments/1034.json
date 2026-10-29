@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1034",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 201070.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105230",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 40990.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500105259",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 37580.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500105272",
+      "supplier": "RetailCloud AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 29930.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500105287",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 56690.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500105332",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 35880.0,
+      "expectedDelivery": "2026-12-07"
+    }
+  ]
+}

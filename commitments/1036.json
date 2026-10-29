@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1036",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 201560.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105466",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 62060.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500105518",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 79200.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500105536",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 60300.0,
+      "expectedDelivery": "2026-12-22"
+    }
+  ]
+}

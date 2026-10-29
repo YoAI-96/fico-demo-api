@@ -1,0 +1,15 @@
+{
+  "id": "1058",
+  "name": "Store Siegen",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "East",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Jonas Schulz",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

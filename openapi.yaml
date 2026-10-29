@@ -1,0 +1,291 @@
+openapi: 3.0.3
+info:
+  title: FI/CO Demo API
+  description: 'Read-only demo controlling data for a fictional cash and carry wholesaler
+    in Germany, Austria, the Netherlands and Belgium: 154 cost centers (101 stores,
+    delivery, warehouses, purchasing, IT, administration), fiscal year 2026, periods
+    001-010, EUR.'
+  version: 4.0.0
+servers:
+- url: https://YOUR-GITHUB-USERNAME.github.io/fico-demo-api
+paths:
+  /costcenters.json:
+    get:
+      operationId: getCostCenters
+      summary: Get all cost centers
+      description: Returns all cost centers with company code, function, responsible
+        person and status.
+      responses:
+        '200':
+          description: List of cost centers
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  value:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        id:
+                          type: string
+                        name:
+                          type: string
+                        companyCode:
+                          type: string
+                        function:
+                          type: string
+                        region:
+                          type: string
+                        responsiblePerson:
+                          type: string
+                        status:
+                          type: string
+                        country:
+                          type: string
+                  count:
+                    type: integer
+  /costcenters/{ID}.json:
+    get:
+      operationId: getCostCenterDetails
+      summary: Get cost center details
+      description: Returns master data of one cost center, including status (Active,
+        Locked, Blocked for planning).
+      parameters:
+      - $ref: '#/components/parameters/ID'
+      responses:
+        '200':
+          description: One cost center
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: string
+                  name:
+                    type: string
+                  companyCode:
+                    type: string
+                  companyName:
+                    type: string
+                  controllingArea:
+                    type: string
+                  function:
+                    type: string
+                  profitCenter:
+                    type: string
+                  responsiblePerson:
+                    type: string
+                  currency:
+                    type: string
+                  status:
+                    type: string
+                  validFrom:
+                    type: string
+                  country:
+                    type: string
+                  region:
+                    type: string
+  /budgets/{ID}.json:
+    get:
+      operationId: getCostCenterBudget
+      summary: Get cost center budget
+      description: Returns the 2026 planned budget of one cost center, total and per
+        GL account.
+      parameters:
+      - $ref: '#/components/parameters/ID'
+      responses:
+        '200':
+          description: Budget of one cost center
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  costCenterId:
+                    type: string
+                  fiscalYear:
+                    type: string
+                  planVersion:
+                    type: string
+                  currency:
+                    type: string
+                  plannedAmount:
+                    type: number
+                  lines:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        glAccount:
+                          type: string
+                        glAccountName:
+                          type: string
+                        plannedAmount:
+                          type: number
+  /actuals/{ID}.json:
+    get:
+      operationId: getCostCenterActuals
+      summary: Get cost center actuals
+      description: Returns actual costs posted to one cost center in 2026 (periods
+        001-010), as total, per GL account, per period and as detail lines.
+      parameters:
+      - $ref: '#/components/parameters/ID'
+      responses:
+        '200':
+          description: Actual costs of one cost center
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  costCenterId:
+                    type: string
+                  fiscalYear:
+                    type: string
+                  periodFrom:
+                    type: string
+                  periodTo:
+                    type: string
+                  currency:
+                    type: string
+                  totalActual:
+                    type: number
+                  byGlAccount:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        glAccount:
+                          type: string
+                        glAccountName:
+                          type: string
+                        amount:
+                          type: number
+                  byPeriod:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        period:
+                          type: string
+                        amount:
+                          type: number
+                  lines:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        period:
+                          type: string
+                        glAccount:
+                          type: string
+                        glAccountName:
+                          type: string
+                        amount:
+                          type: number
+  /commitments/{ID}.json:
+    get:
+      operationId: getCostCenterCommitments
+      summary: Get cost center commitments
+      description: Returns open purchase orders (commitments) that will still be charged
+        to one cost center.
+      parameters:
+      - $ref: '#/components/parameters/ID'
+      responses:
+        '200':
+          description: Open commitments of one cost center
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  costCenterId:
+                    type: string
+                  fiscalYear:
+                    type: string
+                  currency:
+                    type: string
+                  totalOpenAmount:
+                    type: number
+                  purchaseOrders:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        purchaseOrder:
+                          type: string
+                        supplier:
+                          type: string
+                        glAccount:
+                          type: string
+                        glAccountName:
+                          type: string
+                        openAmount:
+                          type: number
+                        expectedDelivery:
+                          type: string
+  /glaccounts.json:
+    get:
+      operationId: getGlAccounts
+      summary: Get GL accounts
+      description: Returns the cost GL accounts used in the demo with their names
+        and groups.
+      responses:
+        '200':
+          description: List of GL accounts
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  value:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        glAccount:
+                          type: string
+                        name:
+                          type: string
+                        group:
+                          type: string
+                  count:
+                    type: integer
+  /companycodes.json:
+    get:
+      operationId: getCompanyCodes
+      summary: Get company codes
+      description: Returns the four company codes of the demo wholesaler.
+      responses:
+        '200':
+          description: List of company codes
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  value:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        companyCode:
+                          type: string
+                        name:
+                          type: string
+                        country:
+                          type: string
+                  count:
+                    type: integer
+components:
+  parameters:
+    ID:
+      name: ID
+      in: path
+      required: true
+      description: Cost center ID, for example 1101
+      schema:
+        type: string

@@ -1,0 +1,15 @@
+{
+  "id": "1501",
+  "name": "Category Management Food",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Purchasing",
+  "region": "Headquarters",
+  "profitCenter": "PC1PUR",
+  "responsiblePerson": "Sara Kraus",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

@@ -1,0 +1,40 @@
+{
+  "costCenterId": "2305",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 57310.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113237",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 18480.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500113253",
+      "supplier": "TruckLease AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 12200.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500113309",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 13460.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500113369",
+      "supplier": "TruckLease AG",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 13170.0,
+      "expectedDelivery": "2026-11-22"
+    }
+  ]
+}

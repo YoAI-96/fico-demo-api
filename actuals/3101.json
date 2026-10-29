@@ -1,0 +1,379 @@
+{
+  "costCenterId": "3101",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 2074400.0,
+  "byGlAccount": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 490187.53
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 359725.92
+    },
+    {
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 566492.37
+    },
+    {
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 263175.98
+    },
+    {
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 394818.2
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 198866.31
+    },
+    {
+      "period": "002",
+      "amount": 211965.64
+    },
+    {
+      "period": "003",
+      "amount": 218670.05
+    },
+    {
+      "period": "004",
+      "amount": 200441.53
+    },
+    {
+      "period": "005",
+      "amount": 193883.07
+    },
+    {
+      "period": "006",
+      "amount": 227736.09
+    },
+    {
+      "period": "007",
+      "amount": 216028.25
+    },
+    {
+      "period": "008",
+      "amount": 200935.42
+    },
+    {
+      "period": "009",
+      "amount": 225722.88
+    },
+    {
+      "period": "010",
+      "amount": 180150.76
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 46992.76
+    },
+    {
+      "period": "001",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 34485.81
+    },
+    {
+      "period": "001",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 54307.87
+    },
+    {
+      "period": "001",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 25229.87
+    },
+    {
+      "period": "001",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 37850.0
+    },
+    {
+      "period": "002",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 50088.18
+    },
+    {
+      "period": "002",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 36757.39
+    },
+    {
+      "period": "002",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 57885.13
+    },
+    {
+      "period": "002",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 26891.76
+    },
+    {
+      "period": "002",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 40343.18
+    },
+    {
+      "period": "003",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 51672.45
+    },
+    {
+      "period": "003",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 37920.02
+    },
+    {
+      "period": "003",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 59716.02
+    },
+    {
+      "period": "003",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 27742.34
+    },
+    {
+      "period": "003",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 41619.22
+    },
+    {
+      "period": "004",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 47364.99
+    },
+    {
+      "period": "004",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 34758.97
+    },
+    {
+      "period": "004",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 54738.05
+    },
+    {
+      "period": "004",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 25429.71
+    },
+    {
+      "period": "004",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 38149.81
+    },
+    {
+      "period": "005",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 45815.21
+    },
+    {
+      "period": "005",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 33621.66
+    },
+    {
+      "period": "005",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 52947.01
+    },
+    {
+      "period": "005",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 24597.65
+    },
+    {
+      "period": "005",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 36901.54
+    },
+    {
+      "period": "006",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 53814.79
+    },
+    {
+      "period": "006",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 39492.18
+    },
+    {
+      "period": "006",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 62191.84
+    },
+    {
+      "period": "006",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 28892.53
+    },
+    {
+      "period": "006",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 43344.75
+    },
+    {
+      "period": "007",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 51048.18
+    },
+    {
+      "period": "007",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 37461.9
+    },
+    {
+      "period": "007",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 58994.58
+    },
+    {
+      "period": "007",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 27407.18
+    },
+    {
+      "period": "007",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 41116.41
+    },
+    {
+      "period": "008",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 47481.7
+    },
+    {
+      "period": "008",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 34844.62
+    },
+    {
+      "period": "008",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 54872.92
+    },
+    {
+      "period": "008",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 25492.37
+    },
+    {
+      "period": "008",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 38243.81
+    },
+    {
+      "period": "009",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 53339.06
+    },
+    {
+      "period": "009",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 39143.06
+    },
+    {
+      "period": "009",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 61642.06
+    },
+    {
+      "period": "009",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 28637.12
+    },
+    {
+      "period": "009",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 42961.58
+    },
+    {
+      "period": "010",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "amount": 42570.21
+    },
+    {
+      "period": "010",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "amount": 31240.31
+    },
+    {
+      "period": "010",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "amount": 49196.89
+    },
+    {
+      "period": "010",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 22855.45
+    },
+    {
+      "period": "010",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "amount": 34287.9
+    }
+  ]
+}

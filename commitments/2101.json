@@ -1,0 +1,64 @@
+{
+  "costCenterId": "2101",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 102140.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500112298",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 14660.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500112313",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 9040.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500112348",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 17170.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500112389",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 16150.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500112440",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 18240.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500112456",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 16060.0,
+      "expectedDelivery": "2026-12-10"
+    },
+    {
+      "purchaseOrder": "4500112467",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 10820.0,
+      "expectedDelivery": "2026-11-25"
+    }
+  ]
+}

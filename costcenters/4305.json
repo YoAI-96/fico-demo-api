@@ -1,0 +1,15 @@
+{
+  "id": "4305",
+  "name": "Sales and Customer Service Belgium",
+  "companyCode": "4000",
+  "companyName": "Demo Wholesale Belgium NV",
+  "country": "Belgium",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Belgium",
+  "profitCenter": "PC4ADM",
+  "responsiblePerson": "Louis Maes",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

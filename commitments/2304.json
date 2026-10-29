@@ -1,0 +1,24 @@
+{
+  "costCenterId": "2304",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 30460.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113160",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 11990.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500113189",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 18470.0,
+      "expectedDelivery": "2026-11-07"
+    }
+  ]
+}

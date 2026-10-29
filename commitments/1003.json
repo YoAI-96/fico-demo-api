@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1003",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 145580.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100367",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 77640.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500100405",
+      "supplier": "TruckLease AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 67940.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

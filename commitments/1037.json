@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1037",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 144340.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105558",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 20860.0,
+      "expectedDelivery": "2026-11-19"
+    },
+    {
+      "purchaseOrder": "4500105595",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 28600.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500105647",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 35680.0,
+      "expectedDelivery": "2026-12-10"
+    },
+    {
+      "purchaseOrder": "4500105691",
+      "supplier": "TruckLease AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 38390.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500105718",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 20810.0,
+      "expectedDelivery": "2026-11-09"
+    }
+  ]
+}

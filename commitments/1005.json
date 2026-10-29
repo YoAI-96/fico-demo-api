@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1005",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 308360.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100690",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 202490.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500100714",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 105870.0,
+      "expectedDelivery": "2026-12-23"
+    }
+  ]
+}

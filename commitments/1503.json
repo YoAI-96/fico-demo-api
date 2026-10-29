@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1503",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 24660.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120560",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 8580.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500120581",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 16080.0,
+      "expectedDelivery": "2026-11-01"
+    }
+  ]
+}

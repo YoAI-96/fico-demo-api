@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1044",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 166290.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106495",
+      "supplier": "Frigo Service NV",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 44470.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500106523",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 40820.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500106580",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 81000.0,
+      "expectedDelivery": "2026-11-07"
+    }
+  ]
+}

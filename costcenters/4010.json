@@ -1,0 +1,15 @@
+{
+  "id": "4010",
+  "name": "Store Aalst",
+  "companyCode": "4000",
+  "companyName": "Demo Wholesale Belgium NV",
+  "country": "Belgium",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "Belgium",
+  "profitCenter": "PC4STO",
+  "responsiblePerson": "Louis Jacobs",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

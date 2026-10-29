@@ -1,0 +1,56 @@
+{
+  "costCenterId": "4009",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 231750.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500118098",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 36440.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500118146",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 25190.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500118163",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 37610.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500118197",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 47020.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500118257",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 42190.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500118310",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 43300.0,
+      "expectedDelivery": "2026-11-17"
+    }
+  ]
+}

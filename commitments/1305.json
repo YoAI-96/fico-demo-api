@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1305",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 15140.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110330",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 2910.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500110351",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 4860.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500110368",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 3040.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500110386",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 4330.0,
+      "expectedDelivery": "2026-12-23"
+    }
+  ]
+}

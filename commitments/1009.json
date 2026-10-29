@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1009",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 105400.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101146",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 52660.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500101175",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 52740.0,
+      "expectedDelivery": "2026-12-26"
+    }
+  ]
+}

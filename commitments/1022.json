@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1022",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 116990.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500103178",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 15590.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500103213",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 16570.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500103262",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 19010.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500103311",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 26650.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500103322",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 21180.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500103330",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 17990.0,
+      "expectedDelivery": "2026-11-06"
+    }
+  ]
+}

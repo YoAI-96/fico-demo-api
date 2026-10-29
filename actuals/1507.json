@@ -1,0 +1,249 @@
+{
+  "costCenterId": "1507",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 1131920.0,
+  "byGlAccount": [
+    {
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 398063.82
+    },
+    {
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 399982.36
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 333873.82
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 51450.91
+    },
+    {
+      "period": "002",
+      "amount": 64313.63
+    },
+    {
+      "period": "003",
+      "amount": 167215.45
+    },
+    {
+      "period": "004",
+      "amount": 77176.36
+    },
+    {
+      "period": "005",
+      "amount": 64313.63
+    },
+    {
+      "period": "006",
+      "amount": 90039.09
+    },
+    {
+      "period": "007",
+      "amount": 51450.91
+    },
+    {
+      "period": "008",
+      "amount": 64313.63
+    },
+    {
+      "period": "009",
+      "amount": 244391.82
+    },
+    {
+      "period": "010",
+      "amount": 257254.57
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 18093.81
+    },
+    {
+      "period": "001",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 18181.02
+    },
+    {
+      "period": "001",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 15176.08
+    },
+    {
+      "period": "002",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 22617.26
+    },
+    {
+      "period": "002",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 22726.27
+    },
+    {
+      "period": "002",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18970.1
+    },
+    {
+      "period": "003",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 58804.88
+    },
+    {
+      "period": "003",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 59088.3
+    },
+    {
+      "period": "003",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 49322.27
+    },
+    {
+      "period": "004",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 27140.72
+    },
+    {
+      "period": "004",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 27271.52
+    },
+    {
+      "period": "004",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 22764.12
+    },
+    {
+      "period": "005",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 22617.26
+    },
+    {
+      "period": "005",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 22726.27
+    },
+    {
+      "period": "005",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18970.1
+    },
+    {
+      "period": "006",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 31664.17
+    },
+    {
+      "period": "006",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 31816.78
+    },
+    {
+      "period": "006",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 26558.14
+    },
+    {
+      "period": "007",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 18093.81
+    },
+    {
+      "period": "007",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 18181.02
+    },
+    {
+      "period": "007",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 15176.08
+    },
+    {
+      "period": "008",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 22617.26
+    },
+    {
+      "period": "008",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 22726.27
+    },
+    {
+      "period": "008",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 18970.1
+    },
+    {
+      "period": "009",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 85945.6
+    },
+    {
+      "period": "009",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 86359.83
+    },
+    {
+      "period": "009",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 72086.39
+    },
+    {
+      "period": "010",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "amount": 90469.05
+    },
+    {
+      "period": "010",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "amount": 90905.08
+    },
+    {
+      "period": "010",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "amount": 75880.44
+    }
+  ]
+}

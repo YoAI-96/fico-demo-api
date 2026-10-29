@@ -1,0 +1,56 @@
+{
+  "costCenterId": "3010",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 386560.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114516",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 72490.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500114531",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 47960.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500114591",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 57180.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500114641",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 89080.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500114652",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 62740.0,
+      "expectedDelivery": "2026-12-12"
+    },
+    {
+      "purchaseOrder": "4500114711",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 57110.0,
+      "expectedDelivery": "2026-11-15"
+    }
+  ]
+}

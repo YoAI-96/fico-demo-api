@@ -1,0 +1,15 @@
+{
+  "id": "1003",
+  "name": "Store Berlin Friedrichshain",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "South",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Maria Lang",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

@@ -1,0 +1,48 @@
+{
+  "costCenterId": "2002",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 132770.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110507",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 30890.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500110526",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 29540.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500110533",
+      "supplier": "TruckLease AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 18820.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500110593",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 34410.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500110641",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 19110.0,
+      "expectedDelivery": "2026-12-27"
+    }
+  ]
+}

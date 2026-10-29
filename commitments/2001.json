@@ -1,0 +1,32 @@
+{
+  "costCenterId": "2001",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 79550.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110398",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 19300.0,
+      "expectedDelivery": "2026-11-10"
+    },
+    {
+      "purchaseOrder": "4500110445",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 36680.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500110491",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 23570.0,
+      "expectedDelivery": "2026-12-26"
+    }
+  ]
+}

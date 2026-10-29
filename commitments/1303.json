@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1303",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 42830.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110089",
+      "supplier": "Frigo Service NV",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 21070.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500110105",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 21760.0,
+      "expectedDelivery": "2026-11-06"
+    }
+  ]
+}

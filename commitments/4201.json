@@ -1,0 +1,64 @@
+{
+  "costCenterId": "4201",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 149810.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119003",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 12570.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500119019",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 27200.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500119047",
+      "supplier": "RetailCloud AG",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 27630.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500119105",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 23540.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500119116",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 21120.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500119121",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 12240.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500119179",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 25510.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

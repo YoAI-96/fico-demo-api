@@ -1,0 +1,32 @@
+{
+  "costCenterId": "2302",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 39380.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500112938",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 15290.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500112977",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 12310.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500113031",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 11780.0,
+      "expectedDelivery": "2026-12-27"
+    }
+  ]
+}

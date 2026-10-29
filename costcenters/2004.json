@@ -1,0 +1,15 @@
+{
+  "id": "2004",
+  "name": "Store Graz",
+  "companyCode": "2000",
+  "companyName": "Demo Wholesale Austria GmbH",
+  "country": "Austria",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "Austria",
+  "profitCenter": "PC2STO",
+  "responsiblePerson": "Simon Huber",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

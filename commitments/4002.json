@@ -1,0 +1,24 @@
+{
+  "costCenterId": "4002",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 76870.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117188",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 41570.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500117199",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 35300.0,
+      "expectedDelivery": "2026-11-21"
+    }
+  ]
+}

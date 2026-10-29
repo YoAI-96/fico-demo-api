@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1512",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 59620.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500121952",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 7620.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500121978",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 7590.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500121993",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 8180.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500122050",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 13430.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500122107",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 10360.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500122134",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 12440.0,
+      "expectedDelivery": "2026-11-24"
+    }
+  ]
+}

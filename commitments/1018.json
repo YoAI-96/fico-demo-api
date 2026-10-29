@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1018",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 186600.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500102396",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 26460.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500102428",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 41630.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500102462",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 34070.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500102500",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 43230.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500102556",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 41210.0,
+      "expectedDelivery": "2026-12-06"
+    }
+  ]
+}

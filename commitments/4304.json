@@ -1,0 +1,64 @@
+{
+  "costCenterId": "4304",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 47350.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119754",
+      "supplier": "TruckLease AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 7690.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500119763",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 6520.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500119815",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 8710.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500119849",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 5330.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500119863",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 7960.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500119877",
+      "supplier": "TruckLease AG",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 6440.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500119921",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 4700.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

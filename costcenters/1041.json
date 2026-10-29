@@ -1,0 +1,15 @@
+{
+  "id": "1041",
+  "name": "Store Erfurt",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "North",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Mia Maier",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

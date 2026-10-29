@@ -1,0 +1,32 @@
+{
+  "costCenterId": "3013",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 195420.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115000",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 57800.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500115060",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 41610.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500115116",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 96010.0,
+      "expectedDelivery": "2026-11-12"
+    }
+  ]
+}

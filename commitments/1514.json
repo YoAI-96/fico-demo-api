@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1514",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 79470.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500122275",
+      "supplier": "TruckLease AG",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 25660.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500122322",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 27540.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500122340",
+      "supplier": "TruckLease AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 26270.0,
+      "expectedDelivery": "2026-11-28"
+    }
+  ]
+}

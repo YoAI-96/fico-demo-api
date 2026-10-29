@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1040",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 124000.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105938",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 26930.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500105950",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 37640.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500105991",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 18340.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500106048",
+      "supplier": "Frigo Service NV",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 19720.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500106069",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 21370.0,
+      "expectedDelivery": "2026-12-14"
+    }
+  ]
+}

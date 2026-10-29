@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1052",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 206370.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107512",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 45900.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500107530",
+      "supplier": "TruckLease AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 55820.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500107544",
+      "supplier": "Frigo Service NV",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 62060.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500107560",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 42590.0,
+      "expectedDelivery": "2026-11-03"
+    }
+  ]
+}

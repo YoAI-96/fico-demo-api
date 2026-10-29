@@ -1,0 +1,24 @@
+{
+  "costCenterId": "2006",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 197920.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500111149",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 89100.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500111163",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 108820.0,
+      "expectedDelivery": "2026-12-10"
+    }
+  ]
+}

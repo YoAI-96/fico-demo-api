@@ -1,0 +1,40 @@
+{
+  "costCenterId": "3007",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 227410.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114252",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 76080.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500114295",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 58770.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500114322",
+      "supplier": "TruckLease AG",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 51270.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500114343",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 41290.0,
+      "expectedDelivery": "2026-11-08"
+    }
+  ]
+}

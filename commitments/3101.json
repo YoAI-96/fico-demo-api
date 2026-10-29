@@ -1,0 +1,56 @@
+{
+  "costCenterId": "3101",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 120800.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115870",
+      "supplier": "Frigo Service NV",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 21790.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500115927",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 20340.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500115948",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 17400.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500115971",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 22820.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500115993",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 21050.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500116028",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 17400.0,
+      "expectedDelivery": "2026-12-01"
+    }
+  ]
+}

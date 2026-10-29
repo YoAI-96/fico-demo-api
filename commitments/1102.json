@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1102",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 52640.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500108944",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 28490.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500108969",
+      "supplier": "TruckLease AG",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 24150.0,
+      "expectedDelivery": "2026-12-17"
+    }
+  ]
+}

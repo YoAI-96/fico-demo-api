@@ -1,0 +1,15 @@
+{
+  "id": "3001",
+  "name": "Store Amsterdam",
+  "companyCode": "3000",
+  "companyName": "Demo Wholesale Netherlands B.V.",
+  "country": "Netherlands",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "Netherlands",
+  "profitCenter": "PC3STO",
+  "responsiblePerson": "Eva Mulder",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

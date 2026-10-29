@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1029",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 223180.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104356",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 93030.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500104378",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 130150.0,
+      "expectedDelivery": "2026-12-13"
+    }
+  ]
+}

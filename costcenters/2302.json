@@ -1,0 +1,15 @@
+{
+  "id": "2302",
+  "name": "Human Resources Austria",
+  "companyCode": "2000",
+  "companyName": "Demo Wholesale Austria GmbH",
+  "country": "Austria",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Austria",
+  "profitCenter": "PC2ADM",
+  "responsiblePerson": "Moritz Wimmer",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

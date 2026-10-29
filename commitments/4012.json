@@ -1,0 +1,24 @@
+{
+  "costCenterId": "4012",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 170210.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500118660",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 70150.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500118665",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 100060.0,
+      "expectedDelivery": "2026-12-14"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "costCenterId": "3305",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 41800.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116880",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 7420.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500116894",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 12000.0,
+      "expectedDelivery": "2026-12-10"
+    },
+    {
+      "purchaseOrder": "4500116927",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 6540.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500116979",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 8090.0,
+      "expectedDelivery": "2026-11-19"
+    },
+    {
+      "purchaseOrder": "4500116987",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 7750.0,
+      "expectedDelivery": "2026-12-05"
+    }
+  ]
+}

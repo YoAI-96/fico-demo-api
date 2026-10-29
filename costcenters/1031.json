@@ -1,0 +1,15 @@
+{
+  "id": "1031",
+  "name": "Store Aachen",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "South",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Markus Neumann",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1510",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 12130.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500121649",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 5910.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500121695",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 6220.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

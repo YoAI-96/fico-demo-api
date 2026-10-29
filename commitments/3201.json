@@ -1,0 +1,48 @@
+{
+  "costCenterId": "3201",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 80940.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116226",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 12780.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500116272",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 10550.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500116290",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 19920.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500116295",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 22070.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500116355",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 15620.0,
+      "expectedDelivery": "2026-11-17"
+    }
+  ]
+}

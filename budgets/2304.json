@@ -1,0 +1,29 @@
+{
+  "costCenterId": "2304",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 700000,
+  "lines": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "plannedAmount": 152480.0
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "plannedAmount": 200660.0
+    },
+    {
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "plannedAmount": 187160.0
+    },
+    {
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "plannedAmount": 159700.0
+    }
+  ]
+}

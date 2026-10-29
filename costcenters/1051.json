@@ -1,0 +1,15 @@
+{
+  "id": "1051",
+  "name": "Store Würzburg",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "South",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Lisa Maier",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

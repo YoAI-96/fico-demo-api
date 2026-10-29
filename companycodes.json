@@ -1,0 +1,25 @@
+{
+  "value": [
+    {
+      "companyCode": "1000",
+      "name": "Demo Wholesale Germany GmbH",
+      "country": "Germany"
+    },
+    {
+      "companyCode": "2000",
+      "name": "Demo Wholesale Austria GmbH",
+      "country": "Austria"
+    },
+    {
+      "companyCode": "3000",
+      "name": "Demo Wholesale Netherlands B.V.",
+      "country": "Netherlands"
+    },
+    {
+      "companyCode": "4000",
+      "name": "Demo Wholesale Belgium NV",
+      "country": "Belgium"
+    }
+  ],
+  "count": 4
+}

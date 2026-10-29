@@ -1,0 +1,15 @@
+{
+  "id": "1024",
+  "name": "Store Münster",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "West",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Daniel Richter",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

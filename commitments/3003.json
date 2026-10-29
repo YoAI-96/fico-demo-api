@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3003",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 169040.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113741",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 102040.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500113781",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 67000.0,
+      "expectedDelivery": "2026-11-09"
+    }
+  ]
+}

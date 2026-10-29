@@ -1,0 +1,15 @@
+{
+  "id": "1150",
+  "name": "Delivery Fleet Germany",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Delivery",
+  "region": "Germany",
+  "profitCenter": "PC1DEL",
+  "responsiblePerson": "Sandra Richter",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

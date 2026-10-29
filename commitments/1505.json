@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1505",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 29520.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120749",
+      "supplier": "TruckLease AG",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 11320.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500120797",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 8240.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500120827",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "openAmount": 9960.0,
+      "expectedDelivery": "2026-12-21"
+    }
+  ]
+}

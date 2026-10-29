@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3008",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 201030.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114388",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 107580.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500114399",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 93450.0,
+      "expectedDelivery": "2026-11-10"
+    }
+  ]
+}

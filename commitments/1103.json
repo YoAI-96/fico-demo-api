@@ -1,0 +1,32 @@
+{
+  "costCenterId": "1103",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 80340.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109026",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 24970.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500109084",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 26100.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500109131",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 29270.0,
+      "expectedDelivery": "2026-12-01"
+    }
+  ]
+}

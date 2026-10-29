@@ -1,0 +1,15 @@
+{
+  "id": "1305",
+  "name": "Sales and Customer Service Germany",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Germany",
+  "profitCenter": "PC1ADM",
+  "responsiblePerson": "Sophie Schulz",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

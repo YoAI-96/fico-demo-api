@@ -1,0 +1,15 @@
+{
+  "id": "1507",
+  "name": "Marketing and Flyers",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Marketing",
+  "region": "Headquarters",
+  "profitCenter": "PC1MAR",
+  "responsiblePerson": "Julia Kaiser",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

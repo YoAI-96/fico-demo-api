@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1051",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 81260.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107368",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 21520.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500107413",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 22440.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500107433",
+      "supplier": "RetailCloud AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 12930.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500107468",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 24370.0,
+      "expectedDelivery": "2026-12-28"
+    }
+  ]
+}

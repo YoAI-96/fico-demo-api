@@ -1,0 +1,249 @@
+{
+  "costCenterId": "3150",
+  "fiscalYear": "2026",
+  "periodFrom": "001",
+  "periodTo": "010",
+  "currency": "EUR",
+  "totalActual": 650460.0,
+  "byGlAccount": [
+    {
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 196738.08
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 208943.79
+    },
+    {
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 244778.13
+    }
+  ],
+  "byPeriod": [
+    {
+      "period": "001",
+      "amount": 70839.43
+    },
+    {
+      "period": "002",
+      "amount": 60816.64
+    },
+    {
+      "period": "003",
+      "amount": 66782.07
+    },
+    {
+      "period": "004",
+      "amount": 70820.24
+    },
+    {
+      "period": "005",
+      "amount": 71670.89
+    },
+    {
+      "period": "006",
+      "amount": 56524.9
+    },
+    {
+      "period": "007",
+      "amount": 70760.88
+    },
+    {
+      "period": "008",
+      "amount": 65171.55
+    },
+    {
+      "period": "009",
+      "amount": 55704.42
+    },
+    {
+      "period": "010",
+      "amount": 61368.98
+    }
+  ],
+  "lines": [
+    {
+      "period": "001",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 21426.09
+    },
+    {
+      "period": "001",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 22755.37
+    },
+    {
+      "period": "001",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 26657.97
+    },
+    {
+      "period": "002",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 18394.6
+    },
+    {
+      "period": "002",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 19535.8
+    },
+    {
+      "period": "002",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 22886.24
+    },
+    {
+      "period": "003",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 20198.9
+    },
+    {
+      "period": "003",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 21452.05
+    },
+    {
+      "period": "003",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 25131.12
+    },
+    {
+      "period": "004",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 21420.28
+    },
+    {
+      "period": "004",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 22749.21
+    },
+    {
+      "period": "004",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 26650.75
+    },
+    {
+      "period": "005",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 21677.57
+    },
+    {
+      "period": "005",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 23022.46
+    },
+    {
+      "period": "005",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 26970.86
+    },
+    {
+      "period": "006",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 17096.52
+    },
+    {
+      "period": "006",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 18157.19
+    },
+    {
+      "period": "006",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 21271.19
+    },
+    {
+      "period": "007",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 21402.33
+    },
+    {
+      "period": "007",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 22730.14
+    },
+    {
+      "period": "007",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 26628.41
+    },
+    {
+      "period": "008",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 19711.78
+    },
+    {
+      "period": "008",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 20934.71
+    },
+    {
+      "period": "008",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 24525.06
+    },
+    {
+      "period": "009",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 16848.36
+    },
+    {
+      "period": "009",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 17893.63
+    },
+    {
+      "period": "009",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 20962.43
+    },
+    {
+      "period": "010",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "amount": 18561.65
+    },
+    {
+      "period": "010",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "amount": 19713.23
+    },
+    {
+      "period": "010",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "amount": 23094.1
+    }
+  ]
+}

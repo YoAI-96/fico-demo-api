@@ -1,0 +1,56 @@
+{
+  "costCenterId": "3302",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 24720.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116447",
+      "supplier": "RetailCloud AG",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 4320.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500116456",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 5560.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500116491",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 3500.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500116540",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 4200.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500116560",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 4220.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500116571",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2920.0,
+      "expectedDelivery": "2026-11-03"
+    }
+  ]
+}

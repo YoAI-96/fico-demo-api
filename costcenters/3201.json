@@ -1,0 +1,15 @@
+{
+  "id": "3201",
+  "name": "Warehouse Duiven",
+  "companyCode": "3000",
+  "companyName": "Demo Wholesale Netherlands B.V.",
+  "country": "Netherlands",
+  "controllingArea": "A000",
+  "function": "Logistics",
+  "region": "Netherlands",
+  "profitCenter": "PC3LOG",
+  "responsiblePerson": "Sanne Meijer",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

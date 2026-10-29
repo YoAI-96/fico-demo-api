@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1038",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 235250.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105760",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 69010.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500105773",
+      "supplier": "TruckLease AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 54440.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500105789",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 53520.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500105829",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 58280.0,
+      "expectedDelivery": "2026-12-11"
+    }
+  ]
+}

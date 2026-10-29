@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1502",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 17840.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120365",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 3030.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500120371",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 3550.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500120419",
+      "supplier": "TruckLease AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2340.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500120428",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 3080.0,
+      "expectedDelivery": "2026-11-19"
+    },
+    {
+      "purchaseOrder": "4500120477",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2220.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500120523",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 1980.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500120548",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 1640.0,
+      "expectedDelivery": "2026-12-08"
+    }
+  ]
+}

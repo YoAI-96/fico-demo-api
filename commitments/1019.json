@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1019",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 180320.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500102608",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 27760.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500102657",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 39850.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500102717",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 38610.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500102758",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 41880.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500102806",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 32220.0,
+      "expectedDelivery": "2026-12-06"
+    }
+  ]
+}

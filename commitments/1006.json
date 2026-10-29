@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1006",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 341070.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100754",
+      "supplier": "RetailCloud AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 76800.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500100765",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 59940.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500100785",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 55190.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500100803",
+      "supplier": "Frigo Service NV",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 62820.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500100851",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 49440.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500100895",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 36880.0,
+      "expectedDelivery": "2026-11-20"
+    }
+  ]
+}

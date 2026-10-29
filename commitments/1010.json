@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1010",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 127910.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101221",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 16720.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500101236",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 23340.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500101259",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 18960.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500101268",
+      "supplier": "TruckLease AG",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 10780.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500101325",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 23100.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500101364",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 22100.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500101371",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 12910.0,
+      "expectedDelivery": "2026-12-18"
+    }
+  ]
+}

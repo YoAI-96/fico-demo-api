@@ -1,0 +1,15 @@
+{
+  "id": "3301",
+  "name": "Finance and Accounting Netherlands",
+  "companyCode": "3000",
+  "companyName": "Demo Wholesale Netherlands B.V.",
+  "country": "Netherlands",
+  "controllingArea": "A000",
+  "function": "Administration",
+  "region": "Netherlands",
+  "profitCenter": "PC3ADM",
+  "responsiblePerson": "Bram van den Berg",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

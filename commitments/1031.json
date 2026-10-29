@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1031",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 200070.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104662",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 19120.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500104674",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 37760.0,
+      "expectedDelivery": "2026-11-20"
+    },
+    {
+      "purchaseOrder": "4500104692",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 29360.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500104702",
+      "supplier": "RetailCloud AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 41650.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500104714",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 37360.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500104726",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 34820.0,
+      "expectedDelivery": "2026-11-16"
+    }
+  ]
+}

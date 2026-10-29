@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1507",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 1500000,
+  "lines": [
+    {
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "plannedAmount": 342620.0
+    },
+    {
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "plannedAmount": 438860.0
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "plannedAmount": 718520.0
+    }
+  ]
+}

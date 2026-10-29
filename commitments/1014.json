@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1014",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 165830.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101827",
+      "supplier": "RetailCloud AG",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 90030.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500101838",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 75800.0,
+      "expectedDelivery": "2026-11-14"
+    }
+  ]
+}

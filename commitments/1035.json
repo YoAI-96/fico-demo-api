@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1035",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 215860.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500105362",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 50150.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500105386",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 67880.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500105406",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 65830.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500105458",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 32000.0,
+      "expectedDelivery": "2026-11-07"
+    }
+  ]
+}

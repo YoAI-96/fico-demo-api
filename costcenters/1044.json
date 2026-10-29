@@ -1,0 +1,15 @@
+{
+  "id": "1044",
+  "name": "Store Saarbrücken",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "West",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Kai Hansen",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

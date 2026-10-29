@@ -1,0 +1,115 @@
+{
+  "value": [
+    {
+      "glAccount": "610000",
+      "name": "Salaries and wages",
+      "group": "Personnel"
+    },
+    {
+      "glAccount": "611000",
+      "name": "Social security",
+      "group": "Personnel"
+    },
+    {
+      "glAccount": "615000",
+      "name": "Temporary staff",
+      "group": "Personnel"
+    },
+    {
+      "glAccount": "620000",
+      "name": "Rent and leases",
+      "group": "Property"
+    },
+    {
+      "glAccount": "621000",
+      "name": "Electricity and energy",
+      "group": "Property"
+    },
+    {
+      "glAccount": "622000",
+      "name": "Maintenance and repairs",
+      "group": "Property"
+    },
+    {
+      "glAccount": "623000",
+      "name": "Refrigeration maintenance",
+      "group": "Property"
+    },
+    {
+      "glAccount": "624000",
+      "name": "Cleaning services",
+      "group": "Property"
+    },
+    {
+      "glAccount": "625000",
+      "name": "Security services",
+      "group": "Property"
+    },
+    {
+      "glAccount": "630000",
+      "name": "Software licenses",
+      "group": "IT"
+    },
+    {
+      "glAccount": "631000",
+      "name": "IT hardware",
+      "group": "IT"
+    },
+    {
+      "glAccount": "632000",
+      "name": "Cloud services",
+      "group": "IT"
+    },
+    {
+      "glAccount": "640000",
+      "name": "Advertising and flyers",
+      "group": "Marketing"
+    },
+    {
+      "glAccount": "641000",
+      "name": "Customer events",
+      "group": "Marketing"
+    },
+    {
+      "glAccount": "660000",
+      "name": "Freight and delivery",
+      "group": "Logistics"
+    },
+    {
+      "glAccount": "661000",
+      "name": "Fuel",
+      "group": "Logistics"
+    },
+    {
+      "glAccount": "662000",
+      "name": "Packaging material",
+      "group": "Logistics"
+    },
+    {
+      "glAccount": "663000",
+      "name": "Waste disposal",
+      "group": "Logistics"
+    },
+    {
+      "glAccount": "650000",
+      "name": "Travel expenses",
+      "group": "General"
+    },
+    {
+      "glAccount": "651000",
+      "name": "Training",
+      "group": "General"
+    },
+    {
+      "glAccount": "652000",
+      "name": "External consulting",
+      "group": "General"
+    },
+    {
+      "glAccount": "653000",
+      "name": "Office supplies",
+      "group": "General"
+    }
+  ],
+  "count": 22
+}

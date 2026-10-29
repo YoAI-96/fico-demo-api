@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1001",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 205580.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100012",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 44140.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500100039",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 37560.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500100081",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 81390.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500100110",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 42490.0,
+      "expectedDelivery": "2026-11-25"
+    }
+  ]
+}

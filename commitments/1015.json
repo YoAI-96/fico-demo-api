@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1015",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 71210.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101865",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 6920.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500101892",
+      "supplier": "Frigo Service NV",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 9070.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500101923",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 12710.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500101973",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 9530.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500102027",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 11550.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500102051",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 10780.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500102059",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 10650.0,
+      "expectedDelivery": "2026-11-02"
+    }
+  ]
+}

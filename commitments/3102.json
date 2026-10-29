@@ -1,0 +1,48 @@
+{
+  "costCenterId": "3102",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 68300.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116062",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "openAmount": 17660.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500116087",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 13820.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500116112",
+      "supplier": "TruckLease AG",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 10290.0,
+      "expectedDelivery": "2026-12-16"
+    },
+    {
+      "purchaseOrder": "4500116119",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 11800.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500116125",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 14730.0,
+      "expectedDelivery": "2026-12-17"
+    }
+  ]
+}

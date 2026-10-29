@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3301",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 12570.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116395",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 5760.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500116424",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 6810.0,
+      "expectedDelivery": "2026-11-04"
+    }
+  ]
+}

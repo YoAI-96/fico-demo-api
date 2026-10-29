@@ -1,0 +1,64 @@
+{
+  "costCenterId": "3017",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 173110.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115632",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 28420.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500115663",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 35610.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500115703",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 21330.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500115710",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 23910.0,
+      "expectedDelivery": "2026-12-19"
+    },
+    {
+      "purchaseOrder": "4500115752",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 17890.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500115803",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 27090.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500115861",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 18860.0,
+      "expectedDelivery": "2026-11-01"
+    }
+  ]
+}

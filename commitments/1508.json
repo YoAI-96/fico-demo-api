@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1508",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 80960.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500121128",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "openAmount": 10720.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500121155",
+      "supplier": "Frigo Service NV",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 11050.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500121200",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "openAmount": 14600.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500121227",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 6360.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500121273",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "openAmount": 13210.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500121281",
+      "supplier": "RetailCloud AG",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 14430.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500121333",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 10590.0,
+      "expectedDelivery": "2026-11-15"
+    }
+  ]
+}

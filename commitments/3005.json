@@ -1,0 +1,64 @@
+{
+  "costCenterId": "3005",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 221020.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113944",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 34230.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500113954",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 38920.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500114007",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 25430.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500114041",
+      "supplier": "Frigo Service NV",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 28370.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500114081",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 22900.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500114112",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 29990.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500114151",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 41180.0,
+      "expectedDelivery": "2026-11-08"
+    }
+  ]
+}

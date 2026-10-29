@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1501",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 55670.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120139",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 11890.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500120189",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 10770.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500120245",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 6400.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500120305",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 14330.0,
+      "expectedDelivery": "2026-12-12"
+    },
+    {
+      "purchaseOrder": "4500120341",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 12280.0,
+      "expectedDelivery": "2026-12-16"
+    }
+  ]
+}

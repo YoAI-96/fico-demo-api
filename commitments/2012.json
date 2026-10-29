@@ -1,0 +1,40 @@
+{
+  "costCenterId": "2012",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 140340.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500112139",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 31350.0,
+      "expectedDelivery": "2026-11-04"
+    },
+    {
+      "purchaseOrder": "4500112189",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 39590.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500112246",
+      "supplier": "RetailCloud AG",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 40680.0,
+      "expectedDelivery": "2026-12-16"
+    },
+    {
+      "purchaseOrder": "4500112273",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 28720.0,
+      "expectedDelivery": "2026-11-14"
+    }
+  ]
+}

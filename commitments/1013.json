@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1013",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 180680.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101752",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 77760.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500101772",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 102920.0,
+      "expectedDelivery": "2026-11-04"
+    }
+  ]
+}

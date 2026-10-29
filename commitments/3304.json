@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3304",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 22210.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500116790",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 10920.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500116833",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "651000",
+      "glAccountName": "Training",
+      "openAmount": 11290.0,
+      "expectedDelivery": "2026-12-14"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "costCenterId": "3006",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 189740.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114156",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 57220.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500114166",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 76710.0,
+      "expectedDelivery": "2026-11-20"
+    },
+    {
+      "purchaseOrder": "4500114198",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 55810.0,
+      "expectedDelivery": "2026-11-19"
+    }
+  ]
+}

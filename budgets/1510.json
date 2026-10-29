@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1510",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 400000,
+  "lines": [
+    {
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "plannedAmount": 84250.0
+    },
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "plannedAmount": 173430.0
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "plannedAmount": 142320.0
+    }
+  ]
+}

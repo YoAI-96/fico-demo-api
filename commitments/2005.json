@@ -1,0 +1,56 @@
+{
+  "costCenterId": "2005",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 224380.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110977",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 29100.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500111028",
+      "supplier": "TruckLease AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 31130.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500111049",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 40460.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500111082",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 40350.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500111088",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 45700.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500111139",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 37640.0,
+      "expectedDelivery": "2026-11-16"
+    }
+  ]
+}

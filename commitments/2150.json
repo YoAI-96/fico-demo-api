@@ -1,0 +1,56 @@
+{
+  "costCenterId": "2150",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 40690.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500112523",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 5430.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500112547",
+      "supplier": "Frigo Service NV",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 5500.0,
+      "expectedDelivery": "2026-12-26"
+    },
+    {
+      "purchaseOrder": "4500112602",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 7320.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500112608",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 7590.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500112668",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 7570.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500112682",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 7280.0,
+      "expectedDelivery": "2026-11-25"
+    }
+  ]
+}

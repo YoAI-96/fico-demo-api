@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1008",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 210290.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500101084",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 113990.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500101111",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 96300.0,
+      "expectedDelivery": "2026-11-27"
+    }
+  ]
+}

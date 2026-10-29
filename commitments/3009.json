@@ -1,0 +1,24 @@
+{
+  "costCenterId": "3009",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 199490.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114450",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 113160.0,
+      "expectedDelivery": "2026-11-23"
+    },
+    {
+      "purchaseOrder": "4500114460",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 86330.0,
+      "expectedDelivery": "2026-12-12"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1030",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 182430.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500104436",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 24850.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500104483",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 22850.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500104498",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 20110.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500104507",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 19580.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500104528",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 37790.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500104575",
+      "supplier": "Frigo Service NV",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 36820.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500104635",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 20430.0,
+      "expectedDelivery": "2026-12-11"
+    }
+  ]
+}

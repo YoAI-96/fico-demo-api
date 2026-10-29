@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1047",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 207910.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106865",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 34300.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500106887",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 33060.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500106940",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 35070.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500106954",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 27260.0,
+      "expectedDelivery": "2026-12-04"
+    },
+    {
+      "purchaseOrder": "4500106985",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 41580.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500107014",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 36640.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

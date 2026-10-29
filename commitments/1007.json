@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1007",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 275700.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500100905",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 62890.0,
+      "expectedDelivery": "2026-11-27"
+    },
+    {
+      "purchaseOrder": "4500100963",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 45360.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500100999",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 73060.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500101059",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 94390.0,
+      "expectedDelivery": "2026-12-28"
+    }
+  ]
+}

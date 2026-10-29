@@ -1,0 +1,64 @@
+{
+  "costCenterId": "2010",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 296640.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500111688",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 44570.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500111725",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 43030.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500111753",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 52090.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500111766",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 42890.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500111773",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 38730.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500111824",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 30600.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500111851",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 44730.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1507",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 81880.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120922",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 12830.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500120932",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "openAmount": 10400.0,
+      "expectedDelivery": "2026-12-17"
+    },
+    {
+      "purchaseOrder": "4500120967",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "openAmount": 11960.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500121000",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "openAmount": 11040.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500121031",
+      "supplier": "TruckLease AG",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "openAmount": 12050.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500121077",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "641000",
+      "glAccountName": "Customer events",
+      "openAmount": 11250.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500121115",
+      "supplier": "TruckLease AG",
+      "glAccount": "640000",
+      "glAccountName": "Advertising and flyers",
+      "openAmount": 12350.0,
+      "expectedDelivery": "2026-11-02"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "costCenterId": "2303",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 58870.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500113059",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 19940.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500113111",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 24390.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500113133",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 14540.0,
+      "expectedDelivery": "2026-11-27"
+    }
+  ]
+}

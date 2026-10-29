@@ -1,0 +1,15 @@
+{
+  "id": "1505",
+  "name": "E-Commerce Marketplace",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Digital",
+  "region": "Headquarters",
+  "profitCenter": "PC1DIG",
+  "responsiblePerson": "Nadine Braun",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

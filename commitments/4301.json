@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4301",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 80310.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119220",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 13150.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500119230",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 21860.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500119250",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 12200.0,
+      "expectedDelivery": "2026-11-13"
+    },
+    {
+      "purchaseOrder": "4500119281",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 20210.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500119318",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "653000",
+      "glAccountName": "Office supplies",
+      "openAmount": 12890.0,
+      "expectedDelivery": "2026-11-04"
+    }
+  ]
+}

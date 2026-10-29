@@ -1,0 +1,15 @@
+{
+  "id": "1506",
+  "name": "Customer Loyalty Program",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Marketing",
+  "region": "Headquarters",
+  "profitCenter": "PC1MAR",
+  "responsiblePerson": "Petra Braun",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2026-08-01"
+}

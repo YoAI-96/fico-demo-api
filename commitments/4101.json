@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4101",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 57370.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500118722",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 9930.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500118751",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "openAmount": 7080.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500118805",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 12900.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500118858",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 13060.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500118905",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 14400.0,
+      "expectedDelivery": "2026-12-01"
+    }
+  ]
+}

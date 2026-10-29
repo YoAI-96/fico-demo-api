@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4011",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 205490.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500118540",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 31880.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500118559",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 28220.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500118571",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 45460.0,
+      "expectedDelivery": "2026-12-25"
+    },
+    {
+      "purchaseOrder": "4500118609",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 50500.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500118631",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 49430.0,
+      "expectedDelivery": "2026-12-06"
+    }
+  ]
+}

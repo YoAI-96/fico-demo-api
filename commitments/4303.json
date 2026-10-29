@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4303",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 12590.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500119576",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 2950.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500119582",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 2280.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500119622",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 2200.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500119660",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 2640.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500119705",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 2520.0,
+      "expectedDelivery": "2026-12-19"
+    }
+  ]
+}

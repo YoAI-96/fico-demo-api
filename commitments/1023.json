@@ -1,0 +1,24 @@
+{
+  "costCenterId": "1023",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 240480.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500103337",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 113620.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500103343",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 126860.0,
+      "expectedDelivery": "2026-12-07"
+    }
+  ]
+}

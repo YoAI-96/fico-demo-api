@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1050",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 171580.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107257",
+      "supplier": "Frigo Service NV",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 55520.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500107278",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 33860.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500107312",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 45630.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500107324",
+      "supplier": "SkillUp Academy GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 36570.0,
+      "expectedDelivery": "2026-12-08"
+    }
+  ]
+}

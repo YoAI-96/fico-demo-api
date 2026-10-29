@@ -1,0 +1,48 @@
+{
+  "costCenterId": "4005",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 119290.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117495",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 22840.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500117519",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 19410.0,
+      "expectedDelivery": "2026-11-15"
+    },
+    {
+      "purchaseOrder": "4500117568",
+      "supplier": "StaffPlus Personal GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 24990.0,
+      "expectedDelivery": "2026-11-11"
+    },
+    {
+      "purchaseOrder": "4500117594",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 29720.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500117652",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 22330.0,
+      "expectedDelivery": "2026-11-19"
+    }
+  ]
+}

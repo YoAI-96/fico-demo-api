@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1020",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 292980.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500102865",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 47360.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500102885",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 55710.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500102901",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 55730.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500102909",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 32660.0,
+      "expectedDelivery": "2026-11-01"
+    },
+    {
+      "purchaseOrder": "4500102914",
+      "supplier": "TruckLease AG",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 45160.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500102967",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 56360.0,
+      "expectedDelivery": "2026-12-16"
+    }
+  ]
+}

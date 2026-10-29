@@ -1,0 +1,64 @@
+{
+  "costCenterId": "3015",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 94650.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500115308",
+      "supplier": "TruckLease AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 9610.0,
+      "expectedDelivery": "2026-11-19"
+    },
+    {
+      "purchaseOrder": "4500115355",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 15900.0,
+      "expectedDelivery": "2026-12-13"
+    },
+    {
+      "purchaseOrder": "4500115377",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 10340.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500115386",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 15290.0,
+      "expectedDelivery": "2026-11-07"
+    },
+    {
+      "purchaseOrder": "4500115437",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 11480.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500115485",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 16080.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500115521",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 15950.0,
+      "expectedDelivery": "2026-11-15"
+    }
+  ]
+}

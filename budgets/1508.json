@@ -1,0 +1,34 @@
+{
+  "costCenterId": "1508",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 2400000,
+  "lines": [
+    {
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "plannedAmount": 513990.0
+    },
+    {
+      "glAccount": "631000",
+      "glAccountName": "IT hardware",
+      "plannedAmount": 536150.0
+    },
+    {
+      "glAccount": "632000",
+      "glAccountName": "Cloud services",
+      "plannedAmount": 483930.0
+    },
+    {
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "plannedAmount": 349170.0
+    },
+    {
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "plannedAmount": 516760.0
+    }
+  ]
+}

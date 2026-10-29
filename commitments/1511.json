@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1511",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 23370.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500121753",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 3620.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500121795",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 3310.0,
+      "expectedDelivery": "2026-11-24"
+    },
+    {
+      "purchaseOrder": "4500121813",
+      "supplier": "RetailCloud AG",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 2370.0,
+      "expectedDelivery": "2026-12-23"
+    },
+    {
+      "purchaseOrder": "4500121832",
+      "supplier": "Frigo Service NV",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 4630.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500121854",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 2980.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500121873",
+      "supplier": "RetailCloud AG",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 2620.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500121920",
+      "supplier": "TruckLease AG",
+      "glAccount": "630000",
+      "glAccountName": "Software licenses",
+      "openAmount": 3840.0,
+      "expectedDelivery": "2026-11-02"
+    }
+  ]
+}

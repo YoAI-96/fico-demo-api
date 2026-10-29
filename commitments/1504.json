@@ -1,0 +1,48 @@
+{
+  "costCenterId": "1504",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 78270.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500120598",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 18880.0,
+      "expectedDelivery": "2026-11-27"
+    },
+    {
+      "purchaseOrder": "4500120657",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 19390.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500120662",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "650000",
+      "glAccountName": "Travel expenses",
+      "openAmount": 14730.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500120677",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 14160.0,
+      "expectedDelivery": "2026-11-14"
+    },
+    {
+      "purchaseOrder": "4500120721",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "652000",
+      "glAccountName": "External consulting",
+      "openAmount": 11110.0,
+      "expectedDelivery": "2026-11-16"
+    }
+  ]
+}

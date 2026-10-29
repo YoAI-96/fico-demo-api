@@ -1,0 +1,32 @@
+{
+  "costCenterId": "3011",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 176580.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500114748",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 68920.0,
+      "expectedDelivery": "2026-12-27"
+    },
+    {
+      "purchaseOrder": "4500114776",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 65480.0,
+      "expectedDelivery": "2026-12-05"
+    },
+    {
+      "purchaseOrder": "4500114790",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 42180.0,
+      "expectedDelivery": "2026-11-04"
+    }
+  ]
+}

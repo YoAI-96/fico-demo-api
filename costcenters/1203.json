@@ -1,0 +1,15 @@
+{
+  "id": "1203",
+  "name": "Non-Food Warehouse Marl",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Logistics",
+  "region": "Germany",
+  "profitCenter": "PC1LOG",
+  "responsiblePerson": "Uwe Hansen",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

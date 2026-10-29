@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1042",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 229060.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500106238",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 43710.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500106244",
+      "supplier": "RetailCloud AG",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 46570.0,
+      "expectedDelivery": "2026-12-18"
+    },
+    {
+      "purchaseOrder": "4500106265",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 26180.0,
+      "expectedDelivery": "2026-11-02"
+    },
+    {
+      "purchaseOrder": "4500106325",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 47000.0,
+      "expectedDelivery": "2026-12-24"
+    },
+    {
+      "purchaseOrder": "4500106375",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 28550.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500106423",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 37050.0,
+      "expectedDelivery": "2026-11-03"
+    }
+  ]
+}

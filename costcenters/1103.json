@@ -1,0 +1,15 @@
+{
+  "id": "1103",
+  "name": "Food Service Delivery East",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Delivery",
+  "region": "East",
+  "profitCenter": "PC1DEL",
+  "responsiblePerson": "Julia Brandt",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

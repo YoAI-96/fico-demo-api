@@ -1,0 +1,15 @@
+{
+  "id": "4101",
+  "name": "Food Service Delivery Belgium",
+  "companyCode": "4000",
+  "companyName": "Demo Wholesale Belgium NV",
+  "country": "Belgium",
+  "controllingArea": "A000",
+  "function": "Delivery",
+  "region": "Belgium",
+  "profitCenter": "PC4DEL",
+  "responsiblePerson": "Camille Jacobs",
+  "currency": "EUR",
+  "status": "Locked",
+  "validFrom": "2018-01-01"
+}

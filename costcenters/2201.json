@@ -1,0 +1,15 @@
+{
+  "id": "2201",
+  "name": "Warehouse Wien",
+  "companyCode": "2000",
+  "companyName": "Demo Wholesale Austria GmbH",
+  "country": "Austria",
+  "controllingArea": "A000",
+  "function": "Logistics",
+  "region": "Austria",
+  "profitCenter": "PC2LOG",
+  "responsiblePerson": "Florian Wimmer",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

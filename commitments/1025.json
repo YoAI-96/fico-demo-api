@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1025",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 144080.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500103626",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 36930.0,
+      "expectedDelivery": "2026-11-16"
+    },
+    {
+      "purchaseOrder": "4500103666",
+      "supplier": "TruckLease AG",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 43540.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500103686",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 36700.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500103702",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 26910.0,
+      "expectedDelivery": "2026-12-14"
+    }
+  ]
+}

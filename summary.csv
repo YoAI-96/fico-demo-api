@@ -1,0 +1,155 @@
+﻿id,name,companyCode,country,function,region,responsiblePerson,status,budget,actuals,commitments,available,usedPercent
+1001,Store Düsseldorf,1000,Germany,Store,North,Maria Lang,Active,3100000,2383420.0,205580.0,511000.0,83.5
+1002,Store Köln,1000,Germany,Store,East,Kerstin Yilmaz,Active,4400000,4249740.0,137860.0,12400.0,99.7
+1003,Store Berlin Friedrichshain,1000,Germany,Store,South,Maria Lang,Active,3000000,2847520.0,145580.0,6900.0,99.8
+1004,Store Berlin Spandau,1000,Germany,Store,West,Sara Maier,Active,3800000,2586340.0,88760.0,1124900.0,70.4
+1005,Store Berlin Marzahn,1000,Germany,Store,North,Julia Fischer,Active,5000000,3663540.0,308360.0,1028100.0,79.4
+1006,Store Hamburg Altona,1000,Germany,Store,East,Felix Vogel,Active,5500000,5785430.0,341070.0,-626500.0,111.4
+1007,Store Hamburg Harburg,1000,Germany,Store,South,Uwe Vogel,Active,5200000,4077600.0,275700.0,846700.0,83.7
+1008,Store München Ost,1000,Germany,Store,West,Petra Brandt,Active,3900000,2633910.0,210290.0,1055800.0,72.9
+1009,Store München Pasing,1000,Germany,Store,North,Maria Brandt,Active,2400000,1587100.0,105400.0,707500.0,70.5
+1010,Store Frankfurt,1000,Germany,Store,East,Ali Schulz,Active,2900000,1999990.0,127910.0,772100.0,73.4
+1011,Store Stuttgart,1000,Germany,Store,South,Anna Petersen,Active,3100000,2895860.0,188540.0,15600.0,99.5
+1012,Store Leipzig,1000,Germany,Store,West,Sandra Hoffmann,Locked,4200000,3064190.0,225210.0,910600.0,78.3
+1013,Store Dresden,1000,Germany,Store,North,Leon Yilmaz,Active,3000000,3003520.0,180680.0,-184200.0,106.1
+1014,Store Hannover,1000,Germany,Store,East,Leon Klein,Active,5200000,4028770.0,165830.0,1005400.0,80.7
+1015,Store Nürnberg,1000,Germany,Store,South,Sara Hansen,Active,2400000,1636590.0,71210.0,692200.0,71.2
+1016,Store Bremen,1000,Germany,Store,West,Peter Yilmaz,Active,5500000,5051360.0,427640.0,21000.0,99.6
+1017,Store Essen,1000,Germany,Store,North,Nadine Yilmaz,Active,4400000,4139960.0,253140.0,6900.0,99.8
+1018,Store Dortmund,1000,Germany,Store,East,Kai Braun,Active,3700000,2857200.0,186600.0,656200.0,82.3
+1019,Store Duisburg,1000,Germany,Store,South,Anna Peters,Active,4900000,3545180.0,180320.0,1174500.0,76.0
+1020,Store Bochum,1000,Germany,Store,West,Jens Maier,Active,4000000,3994120.0,292980.0,-287100.0,107.2
+1021,Store Wuppertal,1000,Germany,Store,North,Petra Kraus,Active,4600000,3611200.0,193800.0,795000.0,82.7
+1022,Store Bielefeld,1000,Germany,Store,East,Maria Seidel,Active,4600000,3627510.0,116990.0,855500.0,81.4
+1023,Store Bonn,1000,Germany,Store,South,Jens Richter,Active,4800000,4547120.0,240480.0,12400.0,99.7
+1024,Store Münster,1000,Germany,Store,West,Daniel Richter,Active,2800000,1919380.0,70520.0,810100.0,71.1
+1025,Store Mannheim,1000,Germany,Store,North,Anna Maier,Active,4500000,4574020.0,144080.0,-218100.0,104.8
+1026,Store Karlsruhe,1000,Germany,Store,East,Lena Lorenz,Active,2900000,2921110.0,181290.0,-202400.0,107.0
+1027,Store Augsburg,1000,Germany,Store,South,Felix Petersen,Active,4200000,3305760.0,209440.0,684800.0,83.7
+1028,Store Wiesbaden,1000,Germany,Store,West,Maria Schmitt,Active,4200000,4047890.0,149310.0,2800.0,99.9
+1029,Store Mönchengladbach,1000,Germany,Store,North,Martin Fischer,Active,5300000,3829220.0,223180.0,1247600.0,76.5
+1030,Store Gelsenkirchen,1000,Germany,Store,East,Nadine Koch,Active,3300000,2538070.0,182430.0,579500.0,82.4
+1031,Store Aachen,1000,Germany,Store,South,Markus Neumann,Active,4300000,2816830.0,200070.0,1283100.0,70.2
+1032,Store Braunschweig,1000,Germany,Store,West,Sophie Maier,Active,2500000,2657480.0,92920.0,-250400.0,110.0
+1033,Store Kiel,1000,Germany,Store,North,Clara Kaiser,Active,4700000,3523130.0,122970.0,1053900.0,77.6
+1034,Store Chemnitz,1000,Germany,Store,East,Jens Wolf,Active,4700000,3326230.0,201070.0,1172700.0,75.0
+1035,Store Halle,1000,Germany,Store,South,Hannah Brandt,Active,5300000,5404940.0,215860.0,-320800.0,106.1
+1036,Store Magdeburg,1000,Germany,Store,West,Julia Krüger,Active,5100000,4893640.0,201560.0,4800.0,99.9
+1037,Store Freiburg,1000,Germany,Store,North,Laura Petersen,Active,2900000,1894360.0,144340.0,861300.0,70.3
+1038,Store Krefeld,1000,Germany,Store,East,Clara Schmitt,Active,4900000,3855150.0,235250.0,809600.0,83.5
+1039,Store Mainz,1000,Germany,Store,South,Laura Brandt,Blocked for planning,5500000,3971880.0,178920.0,1349200.0,75.5
+1040,Store Lübeck,1000,Germany,Store,West,Ali Huber,Active,3100000,3252600.0,124000.0,-276600.0,108.9
+1041,Store Erfurt,1000,Germany,Store,North,Mia Maier,Active,5100000,4009730.0,245170.0,845100.0,83.4
+1042,Store Rostock,1000,Germany,Store,East,Anna Petersen,Active,5500000,3899240.0,229060.0,1371700.0,75.1
+1043,Store Kassel,1000,Germany,Store,South,Mia Braun,Active,4900000,4743470.0,283330.0,-126800.0,102.6
+1044,Store Saarbrücken,1000,Germany,Store,West,Kai Hansen,Active,4000000,4011810.0,166290.0,-178100.0,104.5
+1045,Store Potsdam,1000,Germany,Store,North,Laura Wolf,Active,5000000,3489870.0,201330.0,1308800.0,73.8
+1046,Store Oldenburg,1000,Germany,Store,East,Jonas Hoffmann,Active,5400000,3727550.0,220850.0,1451600.0,73.1
+1047,Store Osnabrück,1000,Germany,Store,South,Thomas Peters,Active,2500000,2425290.0,207910.0,-133200.0,105.3
+1048,Store Heidelberg,1000,Germany,Store,West,Leon Huber,Active,3800000,3505190.0,286310.0,8500.0,99.8
+1049,Store Regensburg,1000,Germany,Store,North,Peter Kaiser,Active,3200000,2394960.0,114140.0,690900.0,78.4
+1050,Store Ingolstadt,1000,Germany,Store,East,Petra Schulz,Active,2700000,2516020.0,171580.0,12400.0,99.5
+1051,Store Würzburg,1000,Germany,Store,South,Lisa Maier,Active,3000000,2189340.0,81260.0,729400.0,75.7
+1052,Store Ulm,1000,Germany,Store,West,Oliver Krüger,Active,5100000,3559830.0,206370.0,1333800.0,73.8
+1053,Store Wolfsburg,1000,Germany,Store,North,Lena Richter,Active,5400000,5277190.0,367210.0,-244400.0,104.5
+1054,Store Göttingen,1000,Germany,Store,East,Sandra Brandt,Active,3300000,2302510.0,165190.0,832300.0,74.8
+1055,Store Koblenz,1000,Germany,Store,South,Sandra Yilmaz,Active,5400000,4045940.0,133360.0,1220700.0,77.4
+1056,Store Trier,1000,Germany,Store,West,Tobias Klein,Active,3800000,2904140.0,150260.0,745600.0,80.4
+1057,Store Jena,1000,Germany,Store,North,Thomas Neumann,Active,3100000,2263270.0,193230.0,643500.0,79.2
+1058,Store Siegen,1000,Germany,Store,East,Jonas Schulz,Active,5300000,5093330.0,194270.0,12400.0,99.8
+1059,Store Paderborn,1000,Germany,Store,South,Kai Krüger,Active,5400000,4145420.0,343180.0,911400.0,83.1
+1060,Store Darmstadt,1000,Germany,Store,West,Sven Braun,Active,4000000,2928500.0,165200.0,906300.0,77.3
+1101,Food Service Delivery West,1000,Germany,Delivery,West,Martin Weber,Active,2100000,1368740.0,109260.0,622000.0,70.4
+1102,Food Service Delivery North,1000,Germany,Delivery,North,Kai Zimmer,Active,1900000,1406760.0,52640.0,440600.0,76.8
+1103,Food Service Delivery East,1000,Germany,Delivery,East,Julia Brandt,Active,2300000,1817960.0,80340.0,401700.0,82.5
+1104,Food Service Delivery South,1000,Germany,Delivery,South,Jens Schulz,Active,1700000,1250800.0,51400.0,397800.0,76.6
+1150,Delivery Fleet Germany,1000,Germany,Delivery,Germany,Sandra Richter,Active,1400000,1001570.0,72830.0,325600.0,76.7
+1201,Central Warehouse Unna,1000,Germany,Logistics,Germany,Peter Huber,Active,3100000,2263780.0,92620.0,743600.0,76.0
+1202,Fresh Food Hub Kassel,1000,Germany,Logistics,Germany,Sven Neumann,Active,3000000,2293790.0,110510.0,595700.0,80.1
+1203,Non-Food Warehouse Marl,1000,Germany,Logistics,Germany,Uwe Hansen,Active,2700000,1851070.0,128030.0,720900.0,73.3
+1301,Finance and Accounting Germany,1000,Germany,Administration,Germany,Martin Zimmer,Active,950000,718420.0,34980.0,196600.0,79.3
+1302,Human Resources Germany,1000,Germany,Administration,Germany,Nadine Schulz,Active,600000,451550.0,35250.0,113200.0,81.1
+1303,Store Operations Management Germany,1000,Germany,Administration,Germany,Thomas Peters,Active,750000,527370.0,42830.0,179800.0,76.0
+1304,Food Safety and Quality Germany,1000,Germany,Administration,Germany,Sara Yilmaz,Active,700000,517910.0,20890.0,161200.0,77.0
+1305,Sales and Customer Service Germany,1000,Germany,Administration,Germany,Sophie Schulz,Active,300000,230860.0,15140.0,54000.0,82.0
+2001,Store Wien Nord,2000,Austria,Store,Austria,Theresa Moser,Active,2600000,2080750.0,79550.0,439700.0,83.1
+2002,Store Wien Süd,2000,Austria,Store,Austria,Florian Wimmer,Active,3300000,3160330.0,132770.0,6900.0,99.8
+2003,Store Wien West,2000,Austria,Store,Austria,Stefan Pichler,Active,5300000,3887940.0,268260.0,1143800.0,78.4
+2004,Store Graz,2000,Austria,Store,Austria,Simon Huber,Active,5500000,4073020.0,217580.0,1209400.0,78.0
+2005,Store Linz,2000,Austria,Store,Austria,Simon Hofer,Blocked for planning,4700000,3189620.0,224380.0,1286000.0,72.6
+2006,Store Salzburg,2000,Austria,Store,Austria,Eva Eder,Active,3600000,2747080.0,197920.0,655000.0,81.8
+2007,Store Innsbruck,2000,Austria,Store,Austria,Katharina Eder,Active,4000000,3712350.0,272050.0,15600.0,99.6
+2008,Store Klagenfurt,2000,Austria,Store,Austria,Eva Pichler,Active,5500000,5138120.0,349480.0,12400.0,99.8
+2009,Store Villach,2000,Austria,Store,Austria,Simon Hofer,Active,5300000,3662100.0,156700.0,1481200.0,72.1
+2010,Store Wels,2000,Austria,Store,Austria,Stefan Wimmer,Active,5500000,3898460.0,296640.0,1304900.0,76.3
+2011,Store St. Pölten,2000,Austria,Store,Austria,Katharina Gruber,Active,5100000,3425540.0,232560.0,1441900.0,71.7
+2012,Store Dornbirn,2000,Austria,Store,Austria,Stefan Moser,Active,2600000,1952560.0,140340.0,507100.0,80.5
+2101,Food Service Delivery Austria,2000,Austria,Delivery,Austria,Katharina Hofer,Active,1700000,1295760.0,102140.0,302100.0,82.2
+2150,Delivery Fleet Austria,2000,Austria,Delivery,Austria,Theresa Eder,Active,1100000,769710.0,40690.0,289600.0,73.7
+2201,Warehouse Wien,2000,Austria,Logistics,Austria,Florian Wimmer,Active,2900000,2182570.0,143430.0,574000.0,80.2
+2301,Finance and Accounting Austria,2000,Austria,Administration,Austria,Simon Bauer,Active,450000,481800.0,15300.0,-47100.0,110.5
+2302,Human Resources Austria,2000,Austria,Administration,Austria,Moritz Wimmer,Active,1000000,734620.0,39380.0,226000.0,77.4
+2303,Store Operations Management Austria,2000,Austria,Administration,Austria,Eva Bauer,Active,1100000,752130.0,58870.0,289000.0,73.7
+2304,Food Safety and Quality Austria,2000,Austria,Administration,Austria,Katharina Huber,Active,700000,661040.0,30460.0,8500.0,98.8
+2305,Sales and Customer Service Austria,2000,Austria,Administration,Austria,Simon Leitner,Active,1000000,1026990.0,57310.0,-84300.0,108.4
+3001,Store Amsterdam,3000,Netherlands,Store,Netherlands,Eva Mulder,Active,3500000,3308540.0,286060.0,-94600.0,102.7
+3002,Store Rotterdam,3000,Netherlands,Store,Netherlands,Lotte de Jong,Active,5100000,3834460.0,165740.0,1099800.0,78.4
+3003,Store Den Haag,3000,Netherlands,Store,Netherlands,Fleur Smit,Active,5400000,3752660.0,169040.0,1478300.0,72.6
+3004,Store Utrecht,3000,Netherlands,Store,Netherlands,Sanne Jansen,Active,2800000,1885770.0,159930.0,754300.0,73.1
+3005,Store Eindhoven,3000,Netherlands,Store,Netherlands,Anouk Mulder,Active,4100000,3013580.0,221020.0,865400.0,78.9
+3006,Store Groningen,3000,Netherlands,Store,Netherlands,Joris Bakker,Active,5500000,3799360.0,189740.0,1510900.0,72.5
+3007,Store Tilburg,3000,Netherlands,Store,Netherlands,Bram Smit,Active,4700000,4451590.0,227410.0,21000.0,99.6
+3008,Store Almere,3000,Netherlands,Store,Netherlands,Sanne Bakker,Active,3000000,3109570.0,201030.0,-310600.0,110.4
+3009,Store Breda,3000,Netherlands,Store,Netherlands,Bram de Boer,Active,3600000,3392010.0,199490.0,8500.0,99.8
+3010,Store Nijmegen,3000,Netherlands,Store,Netherlands,Daan Visser,Active,5000000,4592440.0,386560.0,21000.0,99.6
+3011,Store Apeldoorn,3000,Netherlands,Store,Netherlands,Daan Meijer,Active,3300000,2345420.0,176580.0,778000.0,76.4
+3012,Store Haarlem,3000,Netherlands,Store,Netherlands,Eva Visser,Active,5200000,3518400.0,254400.0,1427200.0,72.6
+3013,Store Arnhem,3000,Netherlands,Store,Netherlands,Sanne de Vries,Active,2400000,2409880.0,195420.0,-205300.0,108.6
+3014,Store Zaandam,3000,Netherlands,Store,Netherlands,Fleur de Jong,Active,2900000,2973440.0,142460.0,-215900.0,107.4
+3015,Store Amersfoort,3000,Netherlands,Store,Netherlands,Eva de Vries,Active,2400000,1903150.0,94650.0,402200.0,83.2
+3016,Store Maastricht,3000,Netherlands,Store,Netherlands,Bram Bakker,Active,5200000,4930280.0,266920.0,2800.0,99.9
+3017,Store Zwolle,3000,Netherlands,Store,Netherlands,Thijs Bakker,Blocked for planning,2900000,1992390.0,173110.0,734500.0,74.7
+3101,Food Service Delivery Netherlands,3000,Netherlands,Delivery,Netherlands,Lotte Bakker,Active,2200000,2074400.0,120800.0,4800.0,99.8
+3102,Food Service Delivery Netherlands,3000,Netherlands,Delivery,Netherlands,Daan van den Berg,Locked,2500000,1714000.0,68300.0,717700.0,71.3
+3150,Delivery Fleet Netherlands,3000,Netherlands,Delivery,Netherlands,Daan Smit,Active,900000,650460.0,52640.0,196900.0,78.1
+3201,Warehouse Duiven,3000,Netherlands,Logistics,Netherlands,Sanne Meijer,Active,2200000,2098060.0,80940.0,21000.0,99.0
+3301,Finance and Accounting Netherlands,3000,Netherlands,Administration,Netherlands,Bram van den Berg,Active,450000,327930.0,12570.0,109500.0,75.7
+3302,Human Resources Netherlands,3000,Netherlands,Administration,Netherlands,Anouk van den Berg,Active,350000,320480.0,24720.0,4800.0,98.6
+3303,Store Operations Management Netherlands,3000,Netherlands,Administration,Netherlands,Anouk Mulder,Active,1150000,811330.0,26870.0,311800.0,72.9
+3304,Food Safety and Quality Netherlands,3000,Netherlands,Administration,Netherlands,Daan de Vries,Active,700000,717690.0,22210.0,-39900.0,105.7
+3305,Sales and Customer Service Netherlands,3000,Netherlands,Administration,Netherlands,Eva Meijer,Active,850000,792600.0,41800.0,15600.0,98.2
+4001,Store Brussel,4000,Belgium,Store,Belgium,Camille Goossens,Active,3300000,2644830.0,98870.0,556300.0,83.1
+4002,Store Antwerpen,4000,Belgium,Store,Belgium,Emma Maes,Active,2400000,2316230.0,76870.0,6900.0,99.7
+4003,Store Gent,4000,Belgium,Store,Belgium,Marie Jacobs,Active,4400000,3280550.0,136350.0,983100.0,77.7
+4004,Store Charleroi,4000,Belgium,Store,Belgium,Jules Claes,Active,5500000,3892070.0,142530.0,1465400.0,73.4
+4005,Store Liège,4000,Belgium,Store,Belgium,Julie Peeters,Active,3200000,2358010.0,119290.0,722700.0,77.4
+4006,Store Brugge,4000,Belgium,Store,Belgium,Julie Maes,Active,3800000,2854750.0,113750.0,831500.0,78.1
+4007,Store Namur,4000,Belgium,Store,Belgium,Marie Claes,Active,5400000,4095960.0,324140.0,979900.0,81.9
+4008,Store Leuven,4000,Belgium,Store,Belgium,Lien Goossens,Active,3200000,2373150.0,145450.0,681400.0,78.7
+4009,Store Mons,4000,Belgium,Store,Belgium,Arthur Wouters,Active,4200000,4383950.0,231750.0,-415700.0,109.9
+4010,Store Aalst,4000,Belgium,Store,Belgium,Louis Jacobs,Active,2900000,2252700.0,71200.0,576100.0,80.1
+4011,Store Mechelen,4000,Belgium,Store,Belgium,Lien Goossens,Active,5000000,3398610.0,205490.0,1395900.0,72.1
+4012,Store Kortrijk,4000,Belgium,Store,Belgium,Noah Claes,Active,3400000,2494390.0,170210.0,735400.0,78.4
+4101,Food Service Delivery Belgium,4000,Belgium,Delivery,Belgium,Camille Jacobs,Locked,1500000,1056230.0,57370.0,386400.0,74.2
+4150,Delivery Fleet Belgium,4000,Belgium,Delivery,Belgium,Marie Mertens,Active,1000000,768140.0,49860.0,182000.0,81.8
+4201,Warehouse Willebroek,4000,Belgium,Logistics,Belgium,Camille Wouters,Active,3100000,3264690.0,149810.0,-314500.0,110.1
+4301,Finance and Accounting Belgium,4000,Belgium,Administration,Belgium,Arthur Mertens,Active,950000,928290.0,80310.0,-58600.0,106.2
+4302,Human Resources Belgium,4000,Belgium,Administration,Belgium,Emma Claes,Active,900000,705020.0,50080.0,144900.0,83.9
+4303,Store Operations Management Belgium,4000,Belgium,Administration,Belgium,Lucas Willems,Active,500000,372910.0,12590.0,114500.0,77.1
+4304,Food Safety and Quality Belgium,4000,Belgium,Administration,Belgium,Lucas Goossens,Active,1100000,846450.0,47350.0,206200.0,81.3
+4305,Sales and Customer Service Belgium,4000,Belgium,Administration,Belgium,Louis Maes,Active,600000,482940.0,16860.0,100200.0,83.3
+1501,Category Management Food,1000,Germany,Purchasing,Headquarters,Sara Kraus,Active,1600000,1523330.0,55670.0,21000.0,98.7
+1502,Category Management Non-Food,1000,Germany,Purchasing,Headquarters,Martin Vogel,Active,400000,300760.0,17840.0,81400.0,79.7
+1503,Private Label Development,1000,Germany,Purchasing,Headquarters,Daniel Schmitt,Active,700000,473340.0,24660.0,202000.0,71.1
+1504,Supplier Quality,1000,Germany,Purchasing,Headquarters,Uwe Schmitt,Active,1600000,1076430.0,78270.0,445300.0,72.2
+1505,E-Commerce Marketplace,1000,Germany,Digital,Headquarters,Nadine Braun,Active,600000,436980.0,29520.0,133500.0,77.8
+1506,Customer Loyalty Program,1000,Germany,Marketing,Headquarters,Petra Braun,Active,500000,189080.0,63020.0,247900.0,50.4
+1507,Marketing and Flyers,1000,Germany,Marketing,Headquarters,Julia Kaiser,Active,1500000,1131920.0,81880.0,286200.0,80.9
+1508,IT POS and Store Systems,1000,Germany,IT,Headquarters,Thomas Krüger,Active,2400000,1780140.0,80960.0,538900.0,77.5
+1509,IT ERP and Finance Systems,1000,Germany,IT,Headquarters,Ali Becker,Active,1500000,1104970.0,39930.0,355100.0,76.3
+1510,IT Infrastructure,1000,Germany,IT,Headquarters,Mia Hoffmann,Active,400000,269470.0,12130.0,118400.0,70.4
+1511,Group Controlling,1000,Germany,Administration,Headquarters,Jens Hartmann,Active,400000,301330.0,23370.0,75300.0,81.2
+1512,Treasury,1000,Germany,Administration,Headquarters,Mia Hoffmann,Active,2000000,1479980.0,59620.0,460400.0,77.0
+1513,Legal and Compliance,1000,Germany,Administration,Headquarters,Felix Kraus,Active,1900000,1412400.0,59500.0,428100.0,77.5
+1514,Sustainability and Energy,1000,Germany,Administration,Headquarters,Maria Braun,Active,1400000,941630.0,79470.0,378900.0,72.9
+1515,Learning and Development,1000,Germany,Administration,Headquarters,Uwe Lang,Active,2500000,1867200.0,79000.0,553800.0,77.8

@@ -1,0 +1,56 @@
+{
+  "costCenterId": "1201",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 92620.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109379",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 16650.0,
+      "expectedDelivery": "2026-12-09"
+    },
+    {
+      "purchaseOrder": "4500109431",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 11170.0,
+      "expectedDelivery": "2026-12-16"
+    },
+    {
+      "purchaseOrder": "4500109464",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 13720.0,
+      "expectedDelivery": "2026-12-15"
+    },
+    {
+      "purchaseOrder": "4500109494",
+      "supplier": "RetailCloud AG",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 11080.0,
+      "expectedDelivery": "2026-11-18"
+    },
+    {
+      "purchaseOrder": "4500109501",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 23940.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500109558",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 16060.0,
+      "expectedDelivery": "2026-12-25"
+    }
+  ]
+}

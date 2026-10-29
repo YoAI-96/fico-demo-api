@@ -1,0 +1,64 @@
+{
+  "costCenterId": "1056",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 150260.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107892",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 20820.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500107946",
+      "supplier": "DataCenter Plus GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 21880.0,
+      "expectedDelivery": "2026-12-08"
+    },
+    {
+      "purchaseOrder": "4500108002",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 19830.0,
+      "expectedDelivery": "2026-12-14"
+    },
+    {
+      "purchaseOrder": "4500108023",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 17240.0,
+      "expectedDelivery": "2026-11-06"
+    },
+    {
+      "purchaseOrder": "4500108065",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 29740.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500108073",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 17770.0,
+      "expectedDelivery": "2026-12-28"
+    },
+    {
+      "purchaseOrder": "4500108085",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 22980.0,
+      "expectedDelivery": "2026-12-16"
+    }
+  ]
+}

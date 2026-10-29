@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1053",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 367210.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500107574",
+      "supplier": "PrintWerk Flyer GmbH",
+      "glAccount": "622000",
+      "glAccountName": "Maintenance and repairs",
+      "openAmount": 133590.0,
+      "expectedDelivery": "2026-11-25"
+    },
+    {
+      "purchaseOrder": "4500107590",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 81600.0,
+      "expectedDelivery": "2026-12-21"
+    },
+    {
+      "purchaseOrder": "4500107601",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 74390.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500107616",
+      "supplier": "POS Systems GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 77630.0,
+      "expectedDelivery": "2026-12-11"
+    }
+  ]
+}

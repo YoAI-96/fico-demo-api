@@ -1,0 +1,40 @@
+{
+  "costCenterId": "1104",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 51400.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500109181",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 13310.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500109214",
+      "supplier": "Frigo Service NV",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 10160.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500109227",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "openAmount": 15770.0,
+      "expectedDelivery": "2026-11-28"
+    },
+    {
+      "purchaseOrder": "4500109269",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "openAmount": 12160.0,
+      "expectedDelivery": "2026-11-11"
+    }
+  ]
+}

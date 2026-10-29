@@ -1,0 +1,15 @@
+{
+  "id": "1202",
+  "name": "Fresh Food Hub Kassel",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Logistics",
+  "region": "Germany",
+  "profitCenter": "PC1LOG",
+  "responsiblePerson": "Sven Neumann",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

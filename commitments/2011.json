@@ -1,0 +1,64 @@
+{
+  "costCenterId": "2011",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 232560.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500111901",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 23030.0,
+      "expectedDelivery": "2026-11-05"
+    },
+    {
+      "purchaseOrder": "4500111924",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 40890.0,
+      "expectedDelivery": "2026-12-11"
+    },
+    {
+      "purchaseOrder": "4500111952",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 27510.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500112010",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "625000",
+      "glAccountName": "Security services",
+      "openAmount": 23000.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500112046",
+      "supplier": "EnergieNetz AG",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 29470.0,
+      "expectedDelivery": "2026-12-02"
+    },
+    {
+      "purchaseOrder": "4500112103",
+      "supplier": "Alpen Energie GmbH",
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "openAmount": 38780.0,
+      "expectedDelivery": "2026-12-20"
+    },
+    {
+      "purchaseOrder": "4500112122",
+      "supplier": "FreshLog Spedition GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 49880.0,
+      "expectedDelivery": "2026-12-08"
+    }
+  ]
+}

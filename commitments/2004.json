@@ -1,0 +1,40 @@
+{
+  "costCenterId": "2004",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 217580.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110808",
+      "supplier": "RetailCloud AG",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 64380.0,
+      "expectedDelivery": "2026-11-26"
+    },
+    {
+      "purchaseOrder": "4500110860",
+      "supplier": "FuelCard Services GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 55080.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500110890",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 31010.0,
+      "expectedDelivery": "2026-11-09"
+    },
+    {
+      "purchaseOrder": "4500110938",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "615000",
+      "glAccountName": "Temporary staff",
+      "openAmount": 67110.0,
+      "expectedDelivery": "2026-11-12"
+    }
+  ]
+}

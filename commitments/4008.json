@@ -1,0 +1,32 @@
+{
+  "costCenterId": "4008",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 145450.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500117995",
+      "supplier": "CoolChain B.V.",
+      "glAccount": "624000",
+      "glAccountName": "Cleaning services",
+      "openAmount": 43740.0,
+      "expectedDelivery": "2026-11-03"
+    },
+    {
+      "purchaseOrder": "4500118001",
+      "supplier": "Frigo Service NV",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 59210.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500118040",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "621000",
+      "glAccountName": "Electricity and energy",
+      "openAmount": 42500.0,
+      "expectedDelivery": "2026-11-28"
+    }
+  ]
+}

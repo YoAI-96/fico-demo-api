@@ -1,0 +1,34 @@
+{
+  "costCenterId": "2101",
+  "fiscalYear": "2026",
+  "planVersion": "0",
+  "currency": "EUR",
+  "plannedAmount": 1700000,
+  "lines": [
+    {
+      "glAccount": "610000",
+      "glAccountName": "Salaries and wages",
+      "plannedAmount": 396280.0
+    },
+    {
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "plannedAmount": 422000.0
+    },
+    {
+      "glAccount": "660000",
+      "glAccountName": "Freight and delivery",
+      "plannedAmount": 243060.0
+    },
+    {
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "plannedAmount": 319140.0
+    },
+    {
+      "glAccount": "662000",
+      "glAccountName": "Packaging material",
+      "plannedAmount": 319520.0
+    }
+  ]
+}

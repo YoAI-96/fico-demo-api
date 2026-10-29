@@ -1,0 +1,15 @@
+{
+  "id": "1042",
+  "name": "Store Rostock",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "East",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Anna Petersen",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}

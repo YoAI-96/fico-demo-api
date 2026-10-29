@@ -1,0 +1,64 @@
+{
+  "costCenterId": "4150",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 49860.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500118914",
+      "supplier": "SecureStore Sicherheit GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 6860.0,
+      "expectedDelivery": "2026-12-22"
+    },
+    {
+      "purchaseOrder": "4500118920",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 7700.0,
+      "expectedDelivery": "2026-11-08"
+    },
+    {
+      "purchaseOrder": "4500118937",
+      "supplier": "Wastefree Entsorgung GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 7240.0,
+      "expectedDelivery": "2026-12-07"
+    },
+    {
+      "purchaseOrder": "4500118954",
+      "supplier": "CleanPro Facility GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 4750.0,
+      "expectedDelivery": "2026-12-01"
+    },
+    {
+      "purchaseOrder": "4500118961",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "620000",
+      "glAccountName": "Rent and leases",
+      "openAmount": 5840.0,
+      "expectedDelivery": "2026-11-17"
+    },
+    {
+      "purchaseOrder": "4500118975",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 7140.0,
+      "expectedDelivery": "2026-11-22"
+    },
+    {
+      "purchaseOrder": "4500118998",
+      "supplier": "KühlTech Service GmbH",
+      "glAccount": "661000",
+      "glAccountName": "Fuel",
+      "openAmount": 10330.0,
+      "expectedDelivery": "2026-12-11"
+    }
+  ]
+}

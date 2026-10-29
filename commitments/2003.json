@@ -1,0 +1,40 @@
+{
+  "costCenterId": "2003",
+  "fiscalYear": "2026",
+  "currency": "EUR",
+  "totalOpenAmount": 268260.0,
+  "purchaseOrders": [
+    {
+      "purchaseOrder": "4500110683",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "663000",
+      "glAccountName": "Waste disposal",
+      "openAmount": 94260.0,
+      "expectedDelivery": "2026-12-03"
+    },
+    {
+      "purchaseOrder": "4500110697",
+      "supplier": "PackPro Verpackung GmbH",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 69720.0,
+      "expectedDelivery": "2026-11-21"
+    },
+    {
+      "purchaseOrder": "4500110742",
+      "supplier": "Brand & Label Consulting",
+      "glAccount": "611000",
+      "glAccountName": "Social security",
+      "openAmount": 54090.0,
+      "expectedDelivery": "2026-11-12"
+    },
+    {
+      "purchaseOrder": "4500110783",
+      "supplier": "OfficeWorld GmbH",
+      "glAccount": "623000",
+      "glAccountName": "Refrigeration maintenance",
+      "openAmount": 50190.0,
+      "expectedDelivery": "2026-11-07"
+    }
+  ]
+}

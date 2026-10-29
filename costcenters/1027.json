@@ -1,0 +1,15 @@
+{
+  "id": "1027",
+  "name": "Store Augsburg",
+  "companyCode": "1000",
+  "companyName": "Demo Wholesale Germany GmbH",
+  "country": "Germany",
+  "controllingArea": "A000",
+  "function": "Store",
+  "region": "South",
+  "profitCenter": "PC1STO",
+  "responsiblePerson": "Felix Petersen",
+  "currency": "EUR",
+  "status": "Active",
+  "validFrom": "2018-01-01"
+}
