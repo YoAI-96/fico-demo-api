@@ -7,7 +7,7 @@ info:
     001-010, EUR.'
   version: 4.0.0
 servers:
-- url: https://YOUR-GITHUB-USERNAME.github.io/fico-demo-api
+- url: https://yoai-96.github.io/fico-demo-api
 paths:
   /costcenters.json:
     get:
